@@ -1,0 +1,8 @@
+> Ready on http://localhost:\\.\pipe\7b2d5a44-177a-413c-8595-6824d1919efc
+Context:  {
+  params: { slug: [ 'robots.txt' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /robots.txt/

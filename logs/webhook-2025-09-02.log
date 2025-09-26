@@ -1,0 +1,18 @@
+[2025-09-02 18:18:33] [INFO] Webhook received: Manual test (Event: test, Object: unknown #0)
+[2025-09-02 18:18:33] [INFO] IIS WebAdministration module loaded
+[2025-09-02 18:18:33] [INFO] Current app pool state: Started
+[2025-09-02 18:18:33] [INFO] Clearing Next.js cache...
+[2025-09-02 18:18:33] [SUCCESS] Next.js cache cleared
+[2025-09-02 18:18:33] [INFO] Test webhook received - will recycle app pool for testing
+[2025-09-02 18:18:33] [INFO] Recycling application pool 'LWCCUmbracoTestSite'...
+[2025-09-02 18:18:33] [SUCCESS] Application pool recycled successfully!
+[2025-09-02 18:18:33] [SUCCESS] Site warmup completed (Status: 200)
+[2025-09-02 18:27:40] [INFO] Webhook received: Manual test (Event: test, Object: unknown #0)
+[2025-09-02 18:27:40] [INFO] IIS WebAdministration module loaded
+[2025-09-02 18:27:40] [INFO] Current app pool state: Started
+[2025-09-02 18:27:40] [INFO] Clearing Next.js cache...
+[2025-09-02 18:27:40] [SUCCESS] Next.js cache cleared
+[2025-09-02 18:27:40] [INFO] Test webhook received - will recycle app pool for testing
+[2025-09-02 18:27:40] [INFO] Recycling application pool 'LWCCUmbracoTestSite'...
+[2025-09-02 18:27:40] [SUCCESS] Application pool recycled successfully!
+[2025-09-02 18:27:40] [SUCCESS] Site warmup completed (Status: 200)

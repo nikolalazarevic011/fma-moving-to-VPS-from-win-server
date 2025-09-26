@@ -1,0 +1,408 @@
+(node:3888) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+No data found for URI: /robots.txt/
+No data found for URI: /sites/favicon.ico/
+No data found for URI: /component/k2/item/30-joseph-business-school/
+No data found for URI: /wp-content/plugins/story-chief/readme.txt/
+No data found for URI: /wp-content/plugins/hellopress/wp_filemanager.php/
+No data found for URI: /tcp.php/
+No data found for URI: /jx.php/
+No data found for URI: /vanta.php/
+No data found for URI: /nc4.php/
+No data found for URI: /acxx.php/
+No data found for URI: /ahax.php/
+No data found for URI: /akc.php/
+No data found for URI: /v2.php/
+No data found for URI: /CLA.php/
+No data found for URI: /aa17.php/
+No data found for URI: /wander.php/
+No data found for URI: /filei.php/
+No data found for URI: /ot.php/
+No data found for URI: /gfile.php/
+No data found for URI: /ol.php/
+No data found for URI: /rak.php/
+No data found for URI: /cfile.php/
+No data found for URI: /ee.php/
+No data found for URI: /ffile.php/
+No data found for URI: /gold.php/
+No data found for URI: /bless2.php/
+No data found for URI: /lc.php/
+No data found for URI: /222.php/
+No data found for URI: /xhouf.php/
+No data found for URI: /num.php/
+No data found for URI: /slo.php/
+No data found for URI: /ava.php/
+No data found for URI: /public/wsr2.php/
+No data found for URI: /sad.php/
+No data found for URI: /gg.php/
+No data found for URI: /file1.php/
+No data found for URI: /an.php/
+No data found for URI: /great.php/
+No data found for URI: /makeasmtp.php/
+No data found for URI: /mo.php/
+No data found for URI: /r4f_1.php/
+No data found for URI: /ar.php/
+No data found for URI: /co.php/
+No data found for URI: /aaaa.php/
+No data found for URI: /good.php/
+Warning: For production Image Optimization with Next.js, the optional 'sharp' package is strongly recommended. Run 'npm i sharp', and Next.js will use it automatically for Image Optimization.
+Read more: https://nextjs.org/docs/messages/sharp-missing-in-production
+No data found for URI: /a.asp/
+No data found for URI: /.well-known/assetlinks.json/
+No data found for URI: /wp-content/uploads/2024/02/WFR24-FMA-3D-Image-DVD-200x200.png/
+No data found for URI: /wp-content/plugins/ultimate-member/readme.txt/
+No data found for URI: /product-category/fma_2024/
+No data found for URI: /component/k2/item/28-http-bwm-org-za/
+No data found for URI: /tools-resources/
+No data found for URI: /[...slug]/
+No data found for URI: /wp-content/uploads/2023/06/2023_FMA_DVD-100x100.png/
+No data found for URI: /images/IFC_StreamingGraphic_m.jpg/
+No data found for URI: /player/stream_en.html/
+No data found for URI: /apple-touch-icon.png/
+No data found for URI: /apple-touch-icon-precomposed.png/
+No data found for URI: /wp-content/uploads/2024/10/FMA24-CD-Web-3D-Image-300x300.png/
+No data found for URI: /apple-touch-icon-120x120-precomposed.png/
+No data found for URI: /apple-touch-icon-120x120.png/
+No data found for URI: /themes/manage/assets/jquery-file-upload/index.html/
+No data found for URI: /product/dr-bill-winston-facebook-live-2-fma-2020/
+No data found for URI: /wp-content/uploads/2023/11/SOMM_2024_course_Descriptions_V2.pdf/
+No data found for URI: /.env/
+No data found for URI: /.git/config/
+No data found for URI: /php_info.php/
+No data found for URI: /test.php/
+No data found for URI: /pinfo.php/
+No data found for URI: /asdf.php/
+No data found for URI: /i.php/
+No data found for URI: /infophp.php/
+No data found for URI: /temp.php/
+No data found for URI: /phpversion.php/
+No data found for URI: /linusadmin-phpinfo.php/
+No data found for URI: /time.php/
+No data found for URI: /phpinfos.php/
+No data found for URI: /phpinfo.php3/
+No data found for URI: /aws.yml/
+No data found for URI: /phpinfo.php4/
+No data found for URI: /old_phpinfo.php/
+No data found for URI: /phpinfo/
+No data found for URI: /config.js/
+No data found for URI: /config/aws.yml/
+No data found for URI: /symfony/_profiler/phpinfo/
+No data found for URI: /wp-config.php/
+No data found for URI: /_profiler/phpinfo/
+No data found for URI: /.aws/config/
+No data found for URI: /config/test.json/
+No data found for URI: /config/settings.json/
+No data found for URI: /appsettings.QA.json/
+No data found for URI: /appsettings.Local.json/
+No data found for URI: /config/dev.json/
+No data found for URI: /.env.bak/
+No data found for URI: /.env-example/
+No data found for URI: /.env.dist/
+No data found for URI: /Properties/launchSettings.json/
+No data found for URI: /.env-sample/
+No data found for URI: /.remote/
+No data found for URI: /src/settings.json/
+No data found for URI: /dashboard/phpinfo.php/
+No data found for URI: /phpinfo.php/
+No data found for URI: /info.php/
+No data found for URI: /infos.php/
+No data found for URI: /.production/
+No data found for URI: /_profiler/phpinfo.php/
+No data found for URI: /private/config.json/
+No data found for URI: /apps/.env/
+No data found for URI: /config/config.json/
+No data found for URI: /.local/
+No data found for URI: /.wp-config.php.swp/
+No data found for URI: /.aws/credentials/
+No data found for URI: /src/config/config.json/
+No data found for URI: /development/.env/
+No data found for URI: /public/client/planinfo/
+No data found for URI: /php-info.php/
+No data found for URI: /meteor.settings.json/
+No data found for URI: /wp-config.php.bak/
+No data found for URI: /.env.dev.local/
+No data found for URI: /helpers/utility.js/
+No data found for URI: /.env.development.sample/
+No data found for URI: /.env.dev/
+No data found for URI: /wp-config.php.old/
+No data found for URI: /.env.backup/
+No data found for URI: /.env.development.local/
+No data found for URI: /.vscode/sftp.json/
+No data found for URI: /.env.docker/
+No data found for URI: /phpinfo.php5/
+No data found for URI: /.env.docker.dev/
+No data found for URI: /.env.example/
+No data found for URI: /.env.local/
+No data found for URI: /hosting.json/
+No data found for URI: /appsettings.Staging.json/
+No data found for URI: /.env.save/
+No data found for URI: /beta/.env/
+No data found for URI: /laravel/.env/
+No data found for URI: /config/local.json/
+No data found for URI: /.docker/config.json/
+No data found for URI: /.env.production/
+No data found for URI: /.env.prod/
+No data found for URI: /config/prod.json/
+No data found for URI: /.env.production.local/
+No data found for URI: /config/staging.json/
+No data found for URI: /.env.sample/
+No data found for URI: /.env.prod.local/
+No data found for URI: /public/.env/
+No data found for URI: /conf/application.json/
+No data found for URI: /.env.stage/
+No data found for URI: /config/daemon.json/
+No data found for URI: /_next/static/css/42c3a6d836d984fd.css" as="style" crossorigin=""/><link rel="stylesheet" href="/_next/static/css/42c3a6d836d984fd.css" crossorigin="" data-n-g=""/><link rel="preload" href="/_next/static/css/3d223db648f3349a.css" as="style" crossorigin=""/><link rel="stylesheet" href="/_next/static/css/3d223db648f3349a.css" crossorigin="" data-n-p=""/><noscript data-n-css=""></noscript><script defer="" crossorigin="" nomodule="" src="/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js/
+No data found for URI: /laravel/core/.env/
+No data found for URI: /.env.travis/
+No data found for URI: /.envrc/
+No data found for URI: /app/.env/
+No data found for URI: /tsconfig.app.json/
+No data found for URI: /prevlaravel/sftp-config.json/
+No data found for URI: /config/queue.php/
+No data found for URI: /config/app.php/
+No data found for URI: /config/auth.php/
+No data found for URI: /config/session.php/
+No data found for URI: /application/config/foreign_chars.php/
+No data found for URI: /php.php/
+No data found for URI: /config/view.php/
+No data found for URI: /config.json/
+No data found for URI: /config/cache.php/
+No data found for URI: /config/application.config.php/
+No data found for URI: /config/routes.php/
+No data found for URI: /application/config/mimes.php/
+No data found for URI: /appsettings.Development.json/
+No data found for URI: /config/security.config.php/
+No data found for URI: /config/database.php/
+No data found for URI: /config/app.default.php/
+No data found for URI: /config/autoload/global.php/
+No data found for URI: /app_dev.php/_profiler/phpinfo/
+No data found for URI: /angular.json/
+No data found for URI: /config/cli_bootstrap.php/
+No data found for URI: /config/mail.php/
+No data found for URI: /.vscode/.env/
+No data found for URI: /wp-includes/wlwmanifest.xml/
+No data found for URI: /xmlrpc.php/
+ApolloError: Response not successful: Received status code 404
+    at new ApolloError (D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\errors\errors.cjs:33:28)
+    at D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\core\core.cjs:2014:78
+    at both (D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\utilities\utilities.cjs:1352:31)
+    at D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\utilities\utilities.cjs:1343:72
+    at new Promise (<anonymous>)
+    at Object.then (D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\utilities\utilities.cjs:1343:24)
+    at Object.error (D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\utilities\utilities.cjs:1354:49)
+    at notifySubscription (D:\inetpub\wwwroot\nextjs\node_modules\zen-observable\lib\Observable.js:140:18)
+    at onNotify (D:\inetpub\wwwroot\nextjs\node_modules\zen-observable\lib\Observable.js:179:3)
+    at SubscriptionObserver.error (D:\inetpub\wwwroot\nextjs\node_modules\zen-observable\lib\Observable.js:240:7) {
+  graphQLErrors: [],
+  protocolErrors: [],
+  clientErrors: [],
+  networkError: Error [ServerError]: Response not successful: Received status code 404
+      at Object.throwServerError (D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\link\utils\utils.cjs:46:17)
+      at parseJsonBody (D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\link\http\http.cjs:290:15)
+      at D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\link\http\http.cjs:314:48
+      at process.processTicksAndRejections (node:internal/process/task_queues:105:5) {
+    response: Response {
+      status: 404,
+      statusText: 'Not Found',
+      headers: Headers {
+        date: 'Tue, 23 Sep 2025 19:50:24 GMT',
+        server: 'Apache',
+        'x-robots-tag': 'noindex',
+        link: '<https://staging-nikola-fma-nextjs.faithministriesalliance.org/wp-json/>; rel="https://api.w.org/"',
+        'x-content-type-options': 'nosniff',
+        'access-control-expose-headers': 'X-WP-Total, X-WP-TotalPages, Link',
+        'access-control-allow-headers': 'Authorization, X-WP-Nonce, Content-Disposition, Content-MD5, Content-Type',
+        'keep-alive': 'timeout=5, max=98',
+        connection: 'Keep-Alive',
+        'transfer-encoding': 'chunked',
+        'content-type': 'application/json; charset=UTF-8'
+      },
+      body: ReadableStream { locked: true, state: 'closed', supportsBYOB: true },
+      bodyUsed: true,
+      ok: false,
+      redirected: false,
+      type: 'basic',
+      url: 'https://staging-nikola-fma-nextjs.faithministriesalliance.org/graphql'
+    },
+    statusCode: 404,
+    result: {
+      code: 'rest_no_route',
+      message: 'No route was found matching the URL and request method.',
+      data: [Object]
+    }
+  },
+  extraInfo: undefined
+}
+No data found for URI: /benefits-main/guidelines/
+No data found for URI: /wp-content/uploads/2023/11/Class_Courses_V2.pdf/
+No data found for URI: /wp-login.php/
+No data found for URI: /product/pastor-daryl-barnett-pt-2-fma-2020/
+No data found for URI: /gifclass.php/
+No data found for URI: /bless.php/
+No data found for URI: /clas.php/
+No data found for URI: /class-t.api.php/
+No data found for URI: /akcc.php/
+No data found for URI: /akcc1.php/
+No data found for URI: /akc1.php/
+No data found for URI: /wpc.php/
+No data found for URI: /product-category/women/polo-shirt-women/
+No data found for URI: /888.php/
+No data found for URI: /wp-content/uploads/2020/09/BillWinstonSignature-white.png/
+No data found for URI: /wp-content/uploads/2025/02/1920x1080-600x338.jpg/
+No data found for URI: /1.asp/
+No data found for URI: /wp-content/uploads/2020/09/winston.png/
+No data found for URI: /wp-content/plugins/incache/index.php/
+No data found for URI: /wp-content/uploads/2020/09/FMA-remastered-homepage-intro.mp4/
+No data found for URI: /wp-content/uploads/2020/09/logo-gold-3-3-e1599252152717.png/
+No data found for URI: /live-stream-spanish/
+No data found for URI: /product/fma-2023-mp3-video-downloads/feed/
+No data found for URI: /wp-admin/admin-ajax.php/
+No data found for URI: /api/.env/
+No data found for URI: /test/.env/
+No data found for URI: /admin/.env/
+No data found for URI: /vendor/.env/
+No data found for URI: /sites/.env/
+No data found for URI: /blog/.env/
+No data found for URI: /system/.env/
+No data found for URI: /shop/.env/
+No data found for URI: /wp-admin/css/
+No data found for URI: /.well-known/
+No data found for URI: /sites/default/files/
+No data found for URI: /admin/controller/extension/extension/
+No data found for URI: /uploads/
+No data found for URI: /images/
+No data found for URI: /files/
+No data found for URI: /woh.php/
+No data found for URI: /classwithtostring.php/
+No data found for URI: /simple.php/
+No data found for URI: /zero.php/
+No data found for URI: /wp-content/plugins/include.php/
+No data found for URI: /phpmailer.lang-sv.php/
+No data found for URI: /wp-content/themes/sketch/404.php/
+No data found for URI: /wp-admin/css/colors/ectoplasm/load-styles.php/
+No data found for URI: /wp-content/plugins/wp-help/admin/wp-fclass.php/
+No data found for URI: /wp-content/plugins/wp-help/index.php/
+No data found for URI: /cgi-bin/class_api.php/
+No data found for URI: /wp-admin/images/class.api.php/
+No data found for URI: /wp-admin/js/widgets/class.api.php/
+No data found for URI: /.well-known/pki-validation/class_api.php/
+No data found for URI: /class_api.php/
+No data found for URI: /class.api.php/
+No data found for URI: /wp-content/themes/tflow/up.php/
+No data found for URI: /wp-content/themes/wp-pridmag/up.php/
+No data found for URI: /.well-known/acme-challenge/atomlib.php/
+No data found for URI: /.well-known/pki-validation/atomlib.php/
+No data found for URI: /images/atomlib.php/
+No data found for URI: /wp-admin/css/atomlib.php/
+No data found for URI: /wp-admin/css/colors/blue/atomlib.php/
+No data found for URI: /wp-admin/includes/atomlib.php/
+No data found for URI: /wp-admin/maint/atomlib.php/
+No data found for URI: /wp-content/languages/themes/atomlib.php/
+No data found for URI: /wp-content/themes/atomlib.php/
+No data found for URI: /wp-admin/images/moon.php/
+No data found for URI: /.tmb/moon.php/
+No data found for URI: /.well-known/acme-challenge/moon.php/
+No data found for URI: /cgi-bin/moon.php/
+No data found for URI: /wp-admin/user/moon.php/
+No data found for URI: /wp-content/upgrade/moon.php/
+No data found for URI: /wp-admin/js/widgets/moon.php/
+No data found for URI: /wp-admin/maint/moon.php/
+No data found for URI: /wp-includes/ID3/moon.php/
+No data found for URI: /wp-includes/certificates/moon.php/
+No data found for URI: /wp-admin/includes/moon.php/
+No data found for URI: /wp-includes/IXR/moon.php/
+No data found for URI: /cjfuns.php/
+No data found for URI: /classfuns.php/
+No data found for URI: /tempfuns.php/
+No data found for URI: /adminfuns.php/
+No data found for URI: /nf_tracking.php/
+No data found for URI: /wp-content/wso.php/
+No data found for URI: /wp-includes/wso.php/
+No data found for URI: /wso.php/
+No data found for URI: /wp-content/uploads/wp-apxupx.php/
+No data found for URI: /wp-content/upgrade/class_api.php/
+No data found for URI: /cgi-bin/sgd.php/
+No data found for URI: /wp-admin/js/widgets/sgd.php/
+No data found for URI: /wp-apxupx.php/
+No data found for URI: /wp-includes/IXR/class.api.php/
+No data found for URI: /wp-content/languages/class_api.php/
+No data found for URI: /.well-known/acme-challenge/class_api.php/
+No data found for URI: /.tmb/mariju.php/
+No data found for URI: /wp-content/languages/themes/class_api.php/
+No data found for URI: /wp-admin/includes/class_api.php/
+No data found for URI: /wp-admin/js/widgets/class_api.php/
+No data found for URI: /wp-admin/network/class_api.php/
+No data found for URI: /.tmb/class_api.php/
+No data found for URI: /assets/class_api.php/
+No data found for URI: /common/css/class_api.php/
+No data found for URI: /common/img/class_api.php/
+No data found for URI: /.well-known/acme-challenge/mariju.php/
+No data found for URI: /wp-admin/user/class_api.php/
+No data found for URI: /wp-includes/rest-api/fields/cache/index.php/
+No data found for URI: /wp-content/themes/travel/issue.php/
+No data found for URI: /wp-includes/IXR/class_api.php/
+No data found for URI: /wp-includes/Requests/class_api.php/
+No data found for URI: /wp-includes/random_compat/class_api.php/
+No data found for URI: /wp-content/themes/hello-element/footer.php/
+No data found for URI: /wp-includes/ID3/license.txt/
+No data found for URI: /blog/wp-includes/wlwmanifest.xml/
+No data found for URI: /web/wp-includes/wlwmanifest.xml/
+No data found for URI: /wordpress/wp-includes/wlwmanifest.xml/
+No data found for URI: /wp/wp-includes/wlwmanifest.xml/
+No data found for URI: /2020/wp-includes/wlwmanifest.xml/
+No data found for URI: /2019/wp-includes/wlwmanifest.xml/
+No data found for URI: /2021/wp-includes/wlwmanifest.xml/
+No data found for URI: /shop/wp-includes/wlwmanifest.xml/
+No data found for URI: /wp1/wp-includes/wlwmanifest.xml/
+No data found for URI: /test/wp-includes/wlwmanifest.xml/
+No data found for URI: /site/wp-includes/wlwmanifest.xml/
+No data found for URI: /cms/wp-includes/wlwmanifest.xml/
+No data found for URI: /product-category/cup/
+No data found for URI: /wp-content/uploads/2022/11/FMA-Bag-300x300.jpg/
+No data found for URI: /ads.txt/
+No data found for URI: /wp-content/uploads/2021/08/FMA2021_CD-150x150.png/
+No data found for URI: /2021fmatraining/
+No data found for URI: /321.php/
+No data found for URI: /wp-content/uploads/2020/09/IMG_6322-1024x683.jpeg/
+No data found for URI: /about/statement-of-faith/
+No data found for URI: /home/
+No data found for URI: /wp-content/uploads/2020/09/IMG_1274-1024x683.jpg/
+No data found for URI: /wordpress/
+No data found for URI: /component/k2/item/31-go-hard-for-christ-youth-ministry/
+No data found for URI: /b02.php/
+No data found for URI: /product-category/men/polo-shirt/
+No data found for URI: /trainings-and-development/
+No data found for URI: /licensing/
+No data found for URI: /wp-content/uploads/2020/09/Bill-W.png/
+No data found for URI: /join-fma/
+No data found for URI: /wp-content/uploads/2024/10/FMA24-DVD-Web-3D-Image-100x100.png/
+No data found for URI: /wp-content/plugins/podlove-podcasting-plugin-for-wordpress/readme.txt/
+No data found for URI: /wp-content/uploads/2020/09/IMG_6322-300x200.jpeg/
+No data found for URI: /"https:/faithministriesalliance.org/wp-content/uploads/2020/09/IMG_6199.jpg/"/
+No data found for URI: /static/images/nopic.png/
+No data found for URI: /product/fma-2021-mp3-audio/
+No data found for URI: /wp-content/uploads/2022/03/FR2022-FMA-3D-Image-CD-100x100.png/
+No data found for URI: /wp-content/uploads/2024/10/FMA24-DVD-Web-3D-Image-200x200.png/
+No data found for URI: /"https:/faithministriesalliance.org/wp-content/uploads/2020/09/BillWinstonSignature-white.png/"/
+No data found for URI: /wp-admin/
+No data found for URI: /z9vo.php/
+No data found for URI: /"https:/faithministriesalliance.org/wp-content/uploads/2020/09/IMG_6218-1024x683.jpg/"/
+No data found for URI: /wp-content/uploads/2022/11/FMA-Bag-100x100.jpg/
+No data found for URI: /wp-content/uploads/2021/08/FMA2021_CD-300x300.png/
+No data found for URI: /app/etc/local.xml/
+No data found for URI: /api/index.php/v1/config/application/
+No data found for URI: /env/
+No data found for URI: /services/.env/
+No data found for URI: /config/.env/
+No data found for URI: /service/.env/
+No data found for URI: /demo/.env/
+No data found for URI: /env.txt/
+No data found for URI: /local/.env/
+No data found for URI: /blog1/.env/
+No data found for URI: /site/.env/
+No data found for URI: /home/.env/
+No data found for URI: /web/.env/
+No data found for URI: /.env1/
+No data found for URI: /website/.env/
+No data found for URI: /product/leading-in-crisis-pastor-timothy-mcbride/
+No data found for URI: /product/2025-fma-pastor-and-leadership-training-mp4/

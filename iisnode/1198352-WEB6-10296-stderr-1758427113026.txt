@@ -1,0 +1,542 @@
+(node:10296) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+No data found for URI: /robots.txt/
+No data found for URI: /product/dr-bill-winston-closing-remarks-pt-2-fma-2020/
+No data found for URI: /Scripts/ueditor/net/controller.ashx/
+No data found for URI: /phpinfo.php/
+No data found for URI: /info.php/
+No data found for URI: /phpinfo/
+No data found for URI: /php_info.php/
+No data found for URI: /test.php/
+No data found for URI: /_profiler/phpinfo/
+No data found for URI: /.env/
+No data found for URI: /config/.env/
+No data found for URI: /.env.production/
+No data found for URI: /.env.local/
+No data found for URI: /api/shared/config/config.env/
+No data found for URI: /api/.env/
+No data found for URI: /contact/
+No data found for URI: /.AWS_/credentials/
+No data found for URI: /karma.conf.json/
+No data found for URI: /index.php/
+No data found for URI: /.aws/credentials/
+Warning: For production Image Optimization with Next.js, the optional 'sharp' package is strongly recommended. Run 'npm i sharp', and Next.js will use it automatically for Image Optimization.
+Read more: https://nextjs.org/docs/messages/sharp-missing-in-production
+No data found for URI: /[...slug]/
+No data found for URI: /.well-known/security.txt/
+No data found for URI: /apple-touch-icon.png/
+No data found for URI: /apple-touch-icon-precomposed.png/
+No data found for URI: /wp-content/uploads/2021/08/FMA2021_CD-300x300.png/
+No data found for URI: /player/stream_sp.html/
+No data found for URI: /wp-admin/css/
+No data found for URI: /.well-known/
+No data found for URI: /sites/default/files/
+No data found for URI: /admin/controller/extension/extension/
+No data found for URI: /uploads/
+No data found for URI: /images/
+No data found for URI: /files/
+No data found for URI: /wp-content/uploads/2022/06/FMA22-3D-Image-CD-copy.jpg/
+No data found for URI: /wp-content/uploads/2020/09/QM4A6257-1024x576.jpg/
+No data found for URI: /product/fma-2023-mp4-video-downloads/
+No data found for URI: /wp-content/uploads/2020/09/IMG_6199.jpg/
+No data found for URI: /.well-known/assetlinks.json/
+No data found for URI: /wp-content/uploads/2022/03/FR2022-FMA-3D-Image-DVD-162x300.png/
+No data found for URI: /wp-aa.php/
+No data found for URI: /wp-content/plugins/wp-automatic/inc/csv.php/
+No data found for URI: /wp-login.php/
+No data found for URI: /component/k2/item/28-http-bwm-org-za/
+No data found for URI: /tools-resources/
+No data found for URI: /wp-content/uploads/2020/09/IMG_1274-1024x683.jpg/
+No data found for URI: /wp-admin/
+No data found for URI: /wp-admin/install.php/
+No data found for URI: /wp-admin/setup-config.php/
+No data found for URI: /media/k2/items/cache/fa55c8bad0e242eb7986dc1135b50adb_XL.jpg/
+No data found for URI: /wp-includes/wlwmanifest.xml/
+No data found for URI: /xmlrpc.php/
+ApolloError: Response not successful: Received status code 404
+    at new ApolloError (D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\errors\errors.cjs:33:28)
+    at D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\core\core.cjs:2014:78
+    at both (D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\utilities\utilities.cjs:1352:31)
+    at D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\utilities\utilities.cjs:1343:72
+    at new Promise (<anonymous>)
+    at Object.then (D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\utilities\utilities.cjs:1343:24)
+    at Object.error (D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\utilities\utilities.cjs:1354:49)
+    at notifySubscription (D:\inetpub\wwwroot\nextjs\node_modules\zen-observable\lib\Observable.js:140:18)
+    at onNotify (D:\inetpub\wwwroot\nextjs\node_modules\zen-observable\lib\Observable.js:179:3)
+    at SubscriptionObserver.error (D:\inetpub\wwwroot\nextjs\node_modules\zen-observable\lib\Observable.js:240:7) {
+  graphQLErrors: [],
+  protocolErrors: [],
+  clientErrors: [],
+  networkError: Error [ServerError]: Response not successful: Received status code 404
+      at Object.throwServerError (D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\link\utils\utils.cjs:46:17)
+      at parseJsonBody (D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\link\http\http.cjs:290:15)
+      at D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\link\http\http.cjs:314:48
+      at process.processTicksAndRejections (node:internal/process/task_queues:105:5) {
+    response: Response {
+      status: 404,
+      statusText: 'Not Found',
+      headers: Headers {
+        date: 'Sun, 21 Sep 2025 10:47:04 GMT',
+        server: 'Apache',
+        'x-robots-tag': 'noindex',
+        link: '<https://staging-nikola-fma-nextjs.faithministriesalliance.org/wp-json/>; rel="https://api.w.org/"',
+        'x-content-type-options': 'nosniff',
+        'access-control-expose-headers': 'X-WP-Total, X-WP-TotalPages, Link',
+        'access-control-allow-headers': 'Authorization, X-WP-Nonce, Content-Disposition, Content-MD5, Content-Type',
+        'keep-alive': 'timeout=5, max=98',
+        connection: 'Keep-Alive',
+        'transfer-encoding': 'chunked',
+        'content-type': 'application/json; charset=UTF-8'
+      },
+      body: ReadableStream { locked: true, state: 'closed', supportsBYOB: true },
+      bodyUsed: true,
+      ok: false,
+      redirected: false,
+      type: 'basic',
+      url: 'https://staging-nikola-fma-nextjs.faithministriesalliance.org/graphql'
+    },
+    statusCode: 404,
+    result: {
+      code: 'rest_no_route',
+      message: 'No route was found matching the URL and request method.',
+      data: [Object]
+    }
+  },
+  extraInfo: undefined
+}
+No data found for URI: /wp-content/uploads/2023/11/Class_Courses_V2.pdf/
+No data found for URI: /member-login/
+No data found for URI: /"https:/faithministriesalliance.org/wp-content/uploads/2020/09/Bill-W.png/"/
+No data found for URI: /888.php/
+No data found for URI: /wp-content/uploads/2024/10/FMA24-DVD-Web-3D-Image-300x300.png/
+No data found for URI: /product-category/fma_2024/
+No data found for URI: /fizz.asp/
+No data found for URI: /wp-content/uploads/2020/09/IMG_6218-1024x683.jpg/
+No data found for URI: /wp-content/uploads/2021/08/FMA2021_DVD-600x600.png/
+ApolloError: Response not successful: Received status code 404
+    at new ApolloError (D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\errors\errors.cjs:33:28)
+    at D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\core\core.cjs:2014:78
+    at both (D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\utilities\utilities.cjs:1352:31)
+    at D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\utilities\utilities.cjs:1343:72
+    at new Promise (<anonymous>)
+    at Object.then (D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\utilities\utilities.cjs:1343:24)
+    at Object.error (D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\utilities\utilities.cjs:1354:49)
+    at notifySubscription (D:\inetpub\wwwroot\nextjs\node_modules\zen-observable\lib\Observable.js:140:18)
+    at onNotify (D:\inetpub\wwwroot\nextjs\node_modules\zen-observable\lib\Observable.js:179:3)
+    at SubscriptionObserver.error (D:\inetpub\wwwroot\nextjs\node_modules\zen-observable\lib\Observable.js:240:7) {
+  graphQLErrors: [],
+  protocolErrors: [],
+  clientErrors: [],
+  networkError: Error [ServerError]: Response not successful: Received status code 404
+      at Object.throwServerError (D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\link\utils\utils.cjs:46:17)
+      at parseJsonBody (D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\link\http\http.cjs:290:15)
+      at D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\link\http\http.cjs:314:48
+      at process.processTicksAndRejections (node:internal/process/task_queues:105:5) {
+    response: Response {
+      status: 404,
+      statusText: 'Not Found',
+      headers: Headers {
+        date: 'Sun, 21 Sep 2025 14:15:54 GMT',
+        server: 'Apache',
+        'x-robots-tag': 'noindex',
+        link: '<https://staging-nikola-fma-nextjs.faithministriesalliance.org/wp-json/>; rel="https://api.w.org/"',
+        'x-content-type-options': 'nosniff',
+        'access-control-expose-headers': 'X-WP-Total, X-WP-TotalPages, Link',
+        'access-control-allow-headers': 'Authorization, X-WP-Nonce, Content-Disposition, Content-MD5, Content-Type',
+        'keep-alive': 'timeout=5, max=100',
+        connection: 'Keep-Alive',
+        'transfer-encoding': 'chunked',
+        'content-type': 'application/json; charset=UTF-8'
+      },
+      body: ReadableStream { locked: true, state: 'closed', supportsBYOB: true },
+      bodyUsed: true,
+      ok: false,
+      redirected: false,
+      type: 'basic',
+      url: 'https://staging-nikola-fma-nextjs.faithministriesalliance.org/graphql'
+    },
+    statusCode: 404,
+    result: {
+      code: 'rest_no_route',
+      message: 'No route was found matching the URL and request method.',
+      data: [Object]
+    }
+  },
+  extraInfo: undefined
+}
+No data found for URI: /wp-content/plugins/hellopress/wp_filemanager.php/
+No data found for URI: /tcp.php/
+No data found for URI: /jx.php/
+No data found for URI: /vanta.php/
+No data found for URI: /nc4.php/
+No data found for URI: /acxx.php/
+No data found for URI: /ahax.php/
+No data found for URI: /akc.php/
+No data found for URI: /v2.php/
+No data found for URI: /CLA.php/
+No data found for URI: /aa17.php/
+No data found for URI: /wander.php/
+No data found for URI: /filei.php/
+No data found for URI: /ot.php/
+No data found for URI: /gfile.php/
+No data found for URI: /ol.php/
+No data found for URI: /rak.php/
+No data found for URI: /cfile.php/
+No data found for URI: /ee.php/
+No data found for URI: /ffile.php/
+No data found for URI: /gold.php/
+No data found for URI: /bless2.php/
+No data found for URI: /lc.php/
+No data found for URI: /222.php/
+No data found for URI: /xhouf.php/
+No data found for URI: /num.php/
+No data found for URI: /slo.php/
+No data found for URI: /ava.php/
+No data found for URI: /public/wsr2.php/
+No data found for URI: /sad.php/
+No data found for URI: /gg.php/
+No data found for URI: /file1.php/
+No data found for URI: /an.php/
+No data found for URI: /great.php/
+No data found for URI: /makeasmtp.php/
+No data found for URI: /mo.php/
+No data found for URI: /r4f_1.php/
+No data found for URI: /ar.php/
+No data found for URI: /co.php/
+No data found for URI: /aaaa.php/
+No data found for URI: /good.php/
+No data found for URI: /player/stream_en.html/
+No data found for URI: /wp-content/uploads/2020/09/QM4A6257-600x338.jpg/
+No data found for URI: /Public/static/file-upload/index.html/
+No data found for URI: /wp-content/uploads/2025/02/1920x1080.jpg/
+No data found for URI: /product-category/fma-2020/feed/
+No data found for URI: /wp-content/uploads/2020/09/IMG_6322-1024x683.jpeg/
+No data found for URI: /wp-content/uploads/2020/09/QM4A0763-1536x864.jpeg/
+No data found for URI: /wp-content/uploads/2020/09/Bill-W.png/
+No data found for URI: /wp-content/uploads/2022/03/FR2022-FMA-3D-Image-DVD-600x1113.png/
+No data found for URI: /product/dr-bill-winston-facebook-live-2-fma-2020/
+No data found for URI: /hello-world/
+No data found for URI: /privet-mir/
+No data found for URI: /"https:/faithministriesalliance.org/wp-content/uploads/2020/09/IMG_1274-1024x683.jpg/"/
+No data found for URI: /.git/config/
+No data found for URI: /product/senior-pastor-training-evening-session-dr-bill-winston-fma-2018/
+No data found for URI: /.well-known/admin.php/
+No data found for URI: /aa.php/
+No data found for URI: /about.php/
+No data found for URI: /admin.php/
+No data found for URI: /adminfuns.php/
+No data found for URI: /atomlib.php/
+No data found for URI: /chosen.php/
+No data found for URI: /classwithtostring.php/
+No data found for URI: /cong.php/
+No data found for URI: /gecko.php/
+No data found for URI: /images/index.php/
+No data found for URI: /index/function.php/
+No data found for URI: /item.php/
+No data found for URI: /tinyfilemanager.php/
+No data found for URI: /w.php/
+No data found for URI: /wp-admin/about.php/
+No data found for URI: /wp-admin/admin.php/
+No data found for URI: /wp-admin/classwithtostring.php/
+No data found for URI: /wp-admin/css/colors/ectoplasm/about.php/
+No data found for URI: /wp-admin/css/colors/midnight/wp-login.php/
+No data found for URI: /wp-admin/index.php/
+No data found for URI: /wp-content/1.php/
+No data found for URI: /wp-content/ALFA_DATA/alfacgiapi/bypass.php/
+No data found for URI: /wp-content/about.php/
+No data found for URI: /wp-content/cache/index.php/
+No data found for URI: /wp-content/themes/about.php/
+No data found for URI: /wp-content/themes/twentyfive/include.php/
+No data found for URI: /wp-content/themes/twentytwentyfour/about.php/
+No data found for URI: /wp-content/themes/twentytwentythree/patterns/index.php/
+No data found for URI: /wp-content/upgrade/index.php/
+No data found for URI: /wp-content/uploads/admin.php/
+No data found for URI: /wp-content/uploads/index.php/
+No data found for URI: /wp-content/wp-conflg.php/
+No data found for URI: /wp-includes/PHPMailer/wp-conflg.php/
+No data found for URI: /wp-includes/Text/about.php/
+No data found for URI: /wp-includes/blocks/about.php/
+No data found for URI: /wp-setup.php/
+No data found for URI: /xmrlpc.php/
+No data found for URI: /zwso.php/
+No data found for URI: /.alf.php/
+No data found for URI: /abcd.php/
+No data found for URI: /autoload_classmap/function.php/
+No data found for URI: /ez.php/
+No data found for URI: /.bod/.ll/ss.php/
+No data found for URI: /admin/index.php/
+No data found for URI: /asasx.php/
+No data found for URI: /buy.php/
+No data found for URI: /cgi-bin/xmrlpc.php/
+No data found for URI: /dropdown.php/
+No data found for URI: /edit.php/
+No data found for URI: /file.php/
+No data found for URI: /flower.php/
+No data found for URI: /gelay.php/
+No data found for URI: /installer.php/
+No data found for URI: /wp-admin/css/colors/blue/index.php/
+No data found for URI: /xleet.php/
+No data found for URI: /wp-sigunq.php/
+No data found for URI: /wso112233.php/
+No data found for URI: /alfanew.php/
+No data found for URI: /fw.php/
+No data found for URI: /install.php/
+No data found for URI: /simple.php/
+No data found for URI: /inputs.php/
+No data found for URI: /classsmtps.php/
+No data found for URI: /wp-blog-header.php/
+No data found for URI: /wp-trackback.php/
+No data found for URI: /wp-signup.php/
+No data found for URI: /wp-comments-post.php/
+No data found for URI: /wp-cron.php/
+No data found for URI: /wp-load.php/
+No data found for URI: /wp-mail.php/
+No data found for URI: /wp-activate.php/
+No data found for URI: /plugins.php/
+No data found for URI: /post.php/
+No data found for URI: /wp-2019.php/
+No data found for URI: /geju.php/
+No data found for URI: /wp.php/
+No data found for URI: /hoot.php/
+No data found for URI: /css.php/
+No data found for URI: /log.php/
+No data found for URI: /mail.php/
+No data found for URI: /bak.php/
+No data found for URI: /content.php/
+No data found for URI: /upfile.php/
+No data found for URI: /wp-conflg.php/
+No data found for URI: /bypass.php/
+No data found for URI: /404.php/
+No data found for URI: /updates.php/
+No data found for URI: /radio.php/
+No data found for URI: /ae.php/
+No data found for URI: /moon.php/
+No data found for URI: /blog.php/
+No data found for URI: /themes.php/
+No data found for URI: /ini.php/
+No data found for URI: /as.php/
+No data found for URI: /shell.php/
+No data found for URI: /ws.php/
+No data found for URI: /alfa.php/
+No data found for URI: /autoload_classmap.php/
+No data found for URI: /file2.php/
+No data found for URI: /goat.php/
+No data found for URI: /ioxi-o.php/
+No data found for URI: /lock360.php/
+No data found for URI: /mm.php/
+No data found for URI: /users.php/
+No data found for URI: /wp-admin/images/moon.php/
+No data found for URI: /wp-admin/js/index.php/
+No data found for URI: /wp-api.php/
+No data found for URI: /wp-content/index.php/
+No data found for URI: /wp-includes/IXR/autoload_classmap.php/
+No data found for URI: /wp-includes/fonts/admin.php/
+No data found for URI: /wp-includes/fonts/index.php/
+No data found for URI: /wsa.php/
+No data found for URI: /media/k2/items/cache/ccb4e23c8aa216f1e96d31ab209c036b_L.jpg/
+No data found for URI: /wp-content/uploads/2024/02/WFR24-FMA-3D-Image-DVD-100x100.png/
+No data found for URI: /"https:/faithministriesalliance.org/wp-content/uploads/2020/09/IMG_6199.jpg/"/
+No data found for URI: /members-directory/
+No data found for URI: /wp-content/uploads/2025/04/2025-Faith-Refresher-FMA-Sessions_3D_CD_Large-Shopping-Cart-Image-1.jpg/
+No data found for URI: /new/.env/
+No data found for URI: /laravel/.env/
+No data found for URI: /core/.env/
+No data found for URI: /account/.env/
+No data found for URI: /admin/.env/
+No data found for URI: /dash/.env/
+No data found for URI: /wp-content/uploads/2022/11/FMA-Product-50-768x768.jpg/
+No data found for URI: /wp-content/uploads/2020/09/BillWinstonSignature-white.png/
+No data found for URI: /wp-content/uploads/2020/09/Bill-W-228x300.png/
+No data found for URI: /PxChMcwdZIuz/
+No data found for URI: /feed/
+No data found for URI: /images/wlw/wp-icon.png/
+upstream image response failed for https://staging-nikola-fma-nextjs.faithministriesalliance.org/wp-content/uploads/2024/05/asset-0.png/checkout/ 404
+upstream image response failed for https://staging-nikola-fma-nextjs.faithministriesalliance.org/wp-content/uploads/2024/07/asset-6-1024x77.jpeg/checkout/ 404
+upstream image response failed for https://staging-nikola-fma-nextjs.faithministriesalliance.org/wp-content/uploads/2024/05/asset-5.jpeg/checkout/ 404
+upstream image response failed for https://staging-nikola-fma-nextjs.faithministriesalliance.org/wp-content/uploads/2024/05/asset-1.png/checkout/ 404
+upstream image response failed for https://staging-nikola-fma-nextjs.faithministriesalliance.org/wp-content/uploads/2024/05/asset-2.png/checkout/ 404
+upstream image response failed for https://staging-nikola-fma-nextjs.faithministriesalliance.org/wp-content/uploads/2024/06/asset-1.jpeg/checkout/ 404
+upstream image response failed for https://staging-nikola-fma-nextjs.faithministriesalliance.org/wp-content/uploads/2025/04/fmaMagazine.png/checkout/ 404
+No data found for URI: /js/varien/js.js/
+No data found for URI: /magento_version/
+No data found for URI: /js/lib/flex.js/
+No data found for URI: /js/mage/adminhtml/product.js/
+No data found for URI: /js/mage/adminhtml/sales.js/
+No data found for URI: /js/mage/adminhtml/tools.js/
+No data found for URI: /js/mage/translate_inline.js/
+No data found for URI: /skin/adminhtml/default/default/boxes.css/
+No data found for URI: /js/prototype/validation.js/
+No data found for URI: /RELEASE_NOTES.txt/
+No data found for URI: /js/mage/cookies.js/
+No data found for URI: /js/js.js/
+No data found for URI: /static/admin/css/base.css/
+No data found for URI: /administrator/manifests/files/joomla.xml/
+No data found for URI: /js/eccube.js/
+No data found for URI: /js/eccube.legacy.js/
+No data found for URI: /js/css.js/
+No data found for URI: /js/navi.js/
+No data found for URI: /js/win_op.js/
+No data found for URI: /js/site.js/
+No data found for URI: /js/locale.js/
+No data found for URI: /admin/
+No data found for URI: /user_data/css/common.css/
+No data found for URI: /template/admin/assets/img/logo2.png/
+No data found for URI: /user_data/packages/default/img/common/favicon.ico/
+No data found for URI: /INSTALL.txt/
+No data found for URI: /a/j/volusion.js/
+No data found for URI: /CHANGELOG.txt/
+No data found for URI: /core/CHANGELOG.txt/
+No data found for URI: /misc/druplicon.png/
+No data found for URI: /misc/drupal.js/
+No data found for URI: /catalog/view/theme/default/stylesheet/stylesheet.css/
+No data found for URI: /order/catalog/view/theme/default/stylesheet/stylesheet.css/
+No data found for URI: /catalog/view/javascript/common.js/
+No data found for URI: /README.md/
+No data found for URI: /themes/Frontend/Responsive/frontend/_public/src/fonts/shopware.woff2/
+No data found for URI: /wp-content/plugins/wp-meta-data-filter-and-taxonomy-filter/readme.txt/
+No data found for URI: /wordpress/
+No data found for URI: /home/
+No data found for URI: /bc/
+No data found for URI: /new/
+No data found for URI: /old/
+No data found for URI: /backup/
+No data found for URI: /wp/
+No data found for URI: /main/
+No data found for URI: /bk/
+No data found for URI: /wp-content/plugins/fix/up.php/
+No data found for URI: /wp-content/themes/seotheme/db.php/
+No data found for URI: /wp-content/plugins/apikey/apikey.php/
+No data found for URI: /aquunbtv.php/
+No data found for URI: /plugins/content/apismtp/apismtp.php/
+No data found for URI: /rkcuguyb.php/
+No data found for URI: /wp-content/plugins/apikey/apikey.php.suspected/
+No data found for URI: /plugins/content/apismtp/apismtp.php.suspected/
+No data found for URI: /wp-content/plugins/story-chief/readme.txt/
+No data found for URI: /wp-content/uploads/2025/02/1920x1080-768x432.jpg/
+No data found for URI: /wp-content/plugins/simple-local-avatars/sldebar.php/
+No data found for URI: /wp-content/uploads/2020/09/winston.png/
+No data found for URI: /doors-test-article/
+No data found for URI: /Wordpress/
+No data found for URI: /WORDPRESS/
+No data found for URI: /WordPress/
+No data found for URI: /Wp/
+No data found for URI: /WP/
+No data found for URI: /application/join-fma/
+No data found for URI: /Old/
+No data found for URI: /OLD/
+No data found for URI: /oldsite/
+No data found for URI: /New/
+No data found for URI: /NEW/
+No data found for URI: /wp-old/
+No data found for URI: /2022/
+No data found for URI: /2023/
+No data found for URI: /2024/
+No data found for URI: /2017/
+No data found for URI: /2020/
+No data found for URI: /2019/
+No data found for URI: /2018/
+No data found for URI: /test/
+No data found for URI: /Test/
+No data found for URI: /TEST/
+No data found for URI: /wp-content/plugins/init-help/init.php/
+No data found for URI: /demo/
+No data found for URI: /www/
+No data found for URI: /WWW/
+No data found for URI: /Www/
+No data found for URI: /2021/
+No data found for URI: /old-site/
+No data found for URI: /crm/.env/
+No data found for URI: /backend/.env/
+No data found for URI: /Backup/
+No data found for URI: /BACKUP/
+No data found for URI: /bak/
+No data found for URI: /sitio/
+No data found for URI: /bac/
+No data found for URI: /wp-content/uploads/2020/09/IMG_6199-600x401.jpg/
+No data found for URI: /sito/
+No data found for URI: /component/
+No data found for URI: /site/
+No data found for URI: /Site/
+No data found for URI: /SITE/
+No data found for URI: /blog/
+No data found for URI: /BLOG/
+No data found for URI: /Blog/
+No data found for URI: /trainings-and-development/
+ApolloError: Response not successful: Received status code 404
+    at new ApolloError (D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\errors\errors.cjs:33:28)
+    at D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\core\core.cjs:2014:78
+    at both (D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\utilities\utilities.cjs:1352:31)
+    at D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\utilities\utilities.cjs:1343:72
+    at new Promise (<anonymous>)
+    at Object.then (D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\utilities\utilities.cjs:1343:24)
+    at Object.error (D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\utilities\utilities.cjs:1354:49)
+    at notifySubscription (D:\inetpub\wwwroot\nextjs\node_modules\zen-observable\lib\Observable.js:140:18)
+    at onNotify (D:\inetpub\wwwroot\nextjs\node_modules\zen-observable\lib\Observable.js:179:3)
+    at SubscriptionObserver.error (D:\inetpub\wwwroot\nextjs\node_modules\zen-observable\lib\Observable.js:240:7) {
+  graphQLErrors: [],
+  protocolErrors: [],
+  clientErrors: [],
+  networkError: Error [ServerError]: Response not successful: Received status code 404
+      at Object.throwServerError (D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\link\utils\utils.cjs:46:17)
+      at parseJsonBody (D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\link\http\http.cjs:290:15)
+      at D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\link\http\http.cjs:314:48
+      at process.processTicksAndRejections (node:internal/process/task_queues:105:5) {
+    response: Response {
+      status: 404,
+      statusText: 'Not Found',
+      headers: Headers {
+        date: 'Mon, 22 Sep 2025 00:30:06 GMT',
+        server: 'Apache',
+        'x-robots-tag': 'noindex',
+        link: '<https://staging-nikola-fma-nextjs.faithministriesalliance.org/wp-json/>; rel="https://api.w.org/"',
+        'x-content-type-options': 'nosniff',
+        'access-control-expose-headers': 'X-WP-Total, X-WP-TotalPages, Link',
+        'access-control-allow-headers': 'Authorization, X-WP-Nonce, Content-Disposition, Content-MD5, Content-Type',
+        'keep-alive': 'timeout=5, max=100',
+        connection: 'Keep-Alive',
+        'transfer-encoding': 'chunked',
+        'content-type': 'application/json; charset=UTF-8'
+      },
+      body: ReadableStream { locked: true, state: 'closed', supportsBYOB: true },
+      bodyUsed: true,
+      ok: false,
+      redirected: false,
+      type: 'basic',
+      url: 'https://staging-nikola-fma-nextjs.faithministriesalliance.org/graphql'
+    },
+    statusCode: 404,
+    result: {
+      code: 'rest_no_route',
+      message: 'No route was found matching the URL and request method.',
+      data: [Object]
+    }
+  },
+  extraInfo: undefined
+}
+No data found for URI: /.well-known/apple-app-site-association/
+No data found for URI: /apple-app-site-association/
+No data found for URI: /wp-content/uploads/2020/09/QM4A6257-768x432.jpg/
+No data found for URI: /wp-content/uploads/2020/09/IMG_1274-300x200.jpg/
+No data found for URI: /index.php/about/founders-letter/
+No data found for URI: /licensing/
+No data found for URI: /style.php/
+No data found for URI: /wp-content/style.php/
+No data found for URI: /wp-content/themes/style.php/
+No data found for URI: /wp-admin/style.php/
+No data found for URI: /wp-includes/style.php/
+No data found for URI: /wp-editor.php/
+No data found for URI: /gifclass.php/
+No data found for URI: /clas.php/
+No data found for URI: /akcc.php/
+No data found for URI: /wp-admin/maint/akcc.php/
+No data found for URI: /wp-includes/js/tinymce/skins/lightgray/img/index.php/
+No data found for URI: /ads.txt/
+No data found for URI: /wp-content/uploads/2021/08/FMA2021_DVD-150x150.png/
+No data found for URI: /application/fma-application/
+No data found for URI: /apple-touch-icon-120x120-precomposed.png/
+No data found for URI: /apple-touch-icon-120x120.png/
+No data found for URI: /wp-content/uploads/2020/09/QM4A0763-600x338.jpeg/
+No data found for URI: /product/pastor-norman-thomas-fma-2020/
+No data found for URI: /blog/robots.txt/
+No data found for URI: /curl.php/
+No data found for URI: /index.html/

@@ -1,0 +1,2923 @@
+> Ready on http://localhost:\\.\pipe\bf9cd530-e925-4f05-8619-931ca347ef15
+Context:  {
+  params: { slug: [ 'robots.txt' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /robots.txt/
+Context:  {
+  params: { slug: [ 'sites', 'favicon.ico' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /sites/favicon.ico/
+Context:  {
+  params: { slug: [ 'component', 'k2', 'item', '30-joseph-business-school' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /component/k2/item/30-joseph-business-school/
+Context:  {
+  params: { slug: [ 'wp-content', 'plugins', 'story-chief', 'readme.txt' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/plugins/story-chief/readme.txt/
+Context:  {
+  params: {
+    slug: [ 'wp-content', 'plugins', 'hellopress', 'wp_filemanager.php' ]
+  },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/plugins/hellopress/wp_filemanager.php/
+Context:  {
+  params: { slug: [ 'tcp.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /tcp.php/
+Context:  {
+  params: { slug: [ 'jx.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /jx.php/
+Context:  {
+  params: { slug: [ 'vanta.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /vanta.php/
+Context:  {
+  params: { slug: [ 'nc4.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /nc4.php/
+Context:  {
+  params: { slug: [ 'acxx.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /acxx.php/
+Context:  {
+  params: { slug: [ 'ahax.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /ahax.php/
+Context:  {
+  params: { slug: [ 'akc.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /akc.php/
+Context:  {
+  params: { slug: [ 'v2.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /v2.php/
+Context:  {
+  params: { slug: [ 'CLA.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /CLA.php/
+Context:  {
+  params: { slug: [ 'aa17.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /aa17.php/
+Context:  {
+  params: { slug: [ 'wander.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wander.php/
+Context:  {
+  params: { slug: [ 'filei.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /filei.php/
+Context:  {
+  params: { slug: [ 'ot.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /ot.php/
+Context:  {
+  params: { slug: [ 'gfile.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /gfile.php/
+Context:  {
+  params: { slug: [ 'ol.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /ol.php/
+Context:  {
+  params: { slug: [ 'rak.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /rak.php/
+Context:  {
+  params: { slug: [ 'cfile.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /cfile.php/
+Context:  {
+  params: { slug: [ 'ee.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /ee.php/
+Context:  {
+  params: { slug: [ 'ffile.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /ffile.php/
+Context:  {
+  params: { slug: [ 'gold.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /gold.php/
+Context:  {
+  params: { slug: [ 'bless2.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /bless2.php/
+Context:  {
+  params: { slug: [ 'lc.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /lc.php/
+Context:  {
+  params: { slug: [ '222.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /222.php/
+Context:  {
+  params: { slug: [ 'xhouf.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /xhouf.php/
+Context:  {
+  params: { slug: [ 'num.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /num.php/
+Context:  {
+  params: { slug: [ 'slo.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /slo.php/
+Context:  {
+  params: { slug: [ 'ava.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /ava.php/
+Context:  {
+  params: { slug: [ 'public', 'wsr2.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /public/wsr2.php/
+Context:  {
+  params: { slug: [ 'sad.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /sad.php/
+Context:  {
+  params: { slug: [ 'gg.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /gg.php/
+Context:  {
+  params: { slug: [ 'file1.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /file1.php/
+Context:  {
+  params: { slug: [ 'an.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /an.php/
+Context:  {
+  params: { slug: [ 'great.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /great.php/
+Context:  {
+  params: { slug: [ 'makeasmtp.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /makeasmtp.php/
+Context:  {
+  params: { slug: [ 'mo.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /mo.php/
+Context:  {
+  params: { slug: [ 'r4f_1.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /r4f_1.php/
+Context:  {
+  params: { slug: [ 'ar.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /ar.php/
+Context:  {
+  params: { slug: [ 'co.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /co.php/
+Context:  {
+  params: { slug: [ 'aaaa.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /aaaa.php/
+Context:  {
+  params: { slug: [ 'good.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /good.php/
+Context:  {
+  params: { slug: [ 'a.asp' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /a.asp/
+Context:  {
+  params: { slug: [ 'thank-you-page' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /thank-you-page/
+Context:  {
+  params: { slug: [ 'contact-us' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /contact-us/
+COLUMNS:  { isStackedOnMobile: true }
+Context:  {
+  params: { slug: [ '.well-known', 'assetlinks.json' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.well-known/assetlinks.json/
+Context:  {
+  params: {
+    slug: [
+      'wp-content',
+      'uploads',
+      '2024',
+      '02',
+      'WFR24-FMA-3D-Image-DVD-200x200.png'
+    ]
+  },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/uploads/2024/02/WFR24-FMA-3D-Image-DVD-200x200.png/
+Context:  {
+  params: {
+    slug: [ 'wp-content', 'plugins', 'ultimate-member', 'readme.txt' ]
+  },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/plugins/ultimate-member/readme.txt/
+Context:  {
+  params: { slug: [ 'product-category', 'fma_2024' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /product-category/fma_2024/
+Context:  {
+  params: { slug: [ 'component', 'k2', 'item', '28-http-bwm-org-za' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /component/k2/item/28-http-bwm-org-za/
+Context:  {
+  params: { slug: [ 'tools-resources' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /tools-resources/
+Context:  {
+  params: { slug: [ 'about-fma' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /about-fma/
+Context:  {
+  params: { slug: [ '[...slug]' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /[...slug]/
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  {
+  verticalAlignment: 'center',
+  style: { spacing: { margin: [Object] } },
+  isStackedOnMobile: true
+}
+COLUMNS:  {
+  verticalAlignment: 'center',
+  style: {
+    spacing: { margin: [Object], padding: [Object], blockGap: [Object] }
+  },
+  isStackedOnMobile: true
+}
+Context:  {
+  params: { slug: [ 'guidelines' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /guidelines/
+COLUMNS:  { style: { spacing: { margin: [Object] } }, isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+Context:  {
+  params: { slug: [ 'benefits' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /benefits/
+COLUMNS:  { style: { spacing: { margin: [Object] } }, isStackedOnMobile: true }
+COLUMNS:  {
+  verticalAlignment: 'center',
+  isStackedOnMobile: false,
+  style: {
+    border: { radius: '6px', width: '1px' },
+    spacing: { padding: [Object], margin: [Object] }
+  },
+  borderColor: 'primary'
+}
+Context:  {
+  params: { slug: [ 'applications', 'ordination' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /applications/ordination/
+COLUMNS:  { style: { spacing: { margin: [Object] } }, isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  {
+  verticalAlignment: 'center',
+  isStackedOnMobile: false,
+  style: {
+    border: { radius: '6px', width: '1px' },
+    spacing: { padding: [Object], margin: [Object] }
+  },
+  borderColor: 'primary'
+}
+COLUMNS:  {
+  verticalAlignment: 'center',
+  isStackedOnMobile: false,
+  style: {
+    border: { radius: '6px', width: '1px' },
+    spacing: { padding: [Object], margin: [Object] }
+  },
+  borderColor: 'primary'
+}
+Context:  {
+  params: {
+    slug: [
+      'wp-content',
+      'uploads',
+      '2023',
+      '06',
+      '2023_FMA_DVD-100x100.png'
+    ]
+  },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/uploads/2023/06/2023_FMA_DVD-100x100.png/
+Context:  {
+  params: { slug: [ 'faq' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /faq/
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+Context:  {
+  params: { slug: [ 'images', 'IFC_StreamingGraphic_m.jpg' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /images/IFC_StreamingGraphic_m.jpg/
+Context:  {
+  params: { slug: [ 'player', 'stream_en.html' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /player/stream_en.html/
+Context:  {
+  params: { slug: [ 'apple-touch-icon.png' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /apple-touch-icon.png/
+Context:  {
+  params: { slug: [ 'apple-touch-icon-precomposed.png' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /apple-touch-icon-precomposed.png/
+Context:  {
+  params: {
+    slug: [
+      'wp-content',
+      'uploads',
+      '2024',
+      '10',
+      'FMA24-CD-Web-3D-Image-300x300.png'
+    ]
+  },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/uploads/2024/10/FMA24-CD-Web-3D-Image-300x300.png/
+Context:  {
+  params: { slug: [ 'apple-touch-icon-120x120-precomposed.png' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /apple-touch-icon-120x120-precomposed.png/
+Context:  {
+  params: { slug: [ 'apple-touch-icon-120x120.png' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /apple-touch-icon-120x120.png/
+Context:  {
+  params: { slug: [ 'members', 'trainings-and-development' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /members/trainings-and-development/
+COLUMNS:  {
+  verticalAlignment: 'center',
+  style: { spacing: { margin: [Object] } },
+  isStackedOnMobile: true
+}
+Context:  {
+  params: {
+    slug: [
+      'themes',
+      'manage',
+      'assets',
+      'jquery-file-upload',
+      'index.html'
+    ]
+  },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /themes/manage/assets/jquery-file-upload/index.html/
+Context:  {
+  params: { slug: [ 'product', 'dr-bill-winston-facebook-live-2-fma-2020' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /product/dr-bill-winston-facebook-live-2-fma-2020/
+Context:  {
+  params: {
+    slug: [
+      'wp-content',
+      'uploads',
+      '2023',
+      '11',
+      'SOMM_2024_course_Descriptions_V2.pdf'
+    ]
+  },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/uploads/2023/11/SOMM_2024_course_Descriptions_V2.pdf/
+Context:  {
+  params: { slug: [ 'donate' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /donate/
+COLUMNS:  {
+  metadata: {
+    categories: [ 'header', 'title' ],
+    patternName: 'core/block/1262',
+    name: 'page title with underline'
+  },
+  isStackedOnMobile: true
+}
+COLUMNS:  {
+  style: { spacing: { margin: [Object], blockGap: [Object] } },
+  isStackedOnMobile: true
+}
+Context:  {
+  params: { slug: [ 'applications', 'join-fma' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /applications/join-fma/
+COLUMNS:  { style: { spacing: { margin: [Object] } }, isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  {
+  verticalAlignment: 'center',
+  isStackedOnMobile: false,
+  style: {
+    border: { radius: '6px', width: '1px' },
+    spacing: { padding: [Object], margin: [Object] }
+  },
+  borderColor: 'primary'
+}
+COLUMNS:  {
+  verticalAlignment: 'center',
+  isStackedOnMobile: false,
+  style: {
+    border: { radius: '6px', width: '1px' },
+    spacing: { padding: [Object], margin: [Object] }
+  },
+  borderColor: 'primary'
+}
+Context:  {
+  params: { slug: [ '.env' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.env/
+Context:  {
+  params: { slug: [ '.git', 'config' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.git/config/
+Context:  {
+  params: { slug: [ 'infophp.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /infophp.php/
+Context:  {
+  params: { slug: [ 'php_info.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /php_info.php/
+Context:  {
+  params: { slug: [ 'test.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /test.php/
+Context:  {
+  params: { slug: [ 'asdf.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /asdf.php/
+Context:  {
+  params: { slug: [ 'i.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /i.php/
+Context:  {
+  params: { slug: [ 'pinfo.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /pinfo.php/
+Context:  {
+  params: { slug: [ 'phpversion.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /phpversion.php/
+Context:  {
+  params: { slug: [ 'time.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /time.php/
+Context:  {
+  params: { slug: [ 'old_phpinfo.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /old_phpinfo.php/
+Context:  {
+  params: { slug: [ 'infos.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /infos.php/
+Context:  {
+  params: { slug: [ 'temp.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /temp.php/
+Context:  {
+  params: { slug: [ 'linusadmin-phpinfo.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /linusadmin-phpinfo.php/
+Context:  {
+  params: { slug: [ 'phpinfo.php4' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /phpinfo.php4/
+Context:  {
+  params: { slug: [ 'php-info.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /php-info.php/
+Context:  {
+  params: { slug: [ 'phpinfos.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /phpinfos.php/
+Context:  {
+  params: { slug: [ 'phpinfo.php5' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /phpinfo.php5/
+Context:  {
+  params: { slug: [ 'dashboard', 'phpinfo.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /dashboard/phpinfo.php/
+Context:  {
+  params: { slug: [ 'info.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /info.php/
+Context:  {
+  params: { slug: [ 'phpinfo.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /phpinfo.php/
+Context:  {
+  params: { slug: [ 'public', 'client', 'planinfo' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /public/client/planinfo/
+Context:  {
+  params: { slug: [ 'aws.yml' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /aws.yml/
+Context:  {
+  params: { slug: [ 'phpinfo.php3' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /phpinfo.php3/
+Context:  {
+  params: { slug: [ '_profiler', 'phpinfo.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /_profiler/phpinfo.php/
+Context:  {
+  params: { slug: [ '_profiler', 'phpinfo' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /_profiler/phpinfo/
+Context:  {
+  params: { slug: [ 'phpinfo' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /phpinfo/
+Context:  {
+  params: { slug: [ '.local' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.local/
+Context:  {
+  params: { slug: [ '.production' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.production/
+Context:  {
+  params: { slug: [ 'config', 'aws.yml' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /config/aws.yml/
+Context:  {
+  params: { slug: [ 'config.js' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /config.js/
+Context:  {
+  params: { slug: [ '.aws', 'config' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.aws/config/
+Context:  {
+  params: { slug: [ 'symfony', '_profiler', 'phpinfo' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /symfony/_profiler/phpinfo/
+Context:  {
+  params: { slug: [ 'wp-config.php.bak' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-config.php.bak/
+Context:  {
+  params: { slug: [ '.aws', 'credentials' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.aws/credentials/
+Context:  {
+  params: { slug: [ '.wp-config.php.swp' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.wp-config.php.swp/
+Context:  {
+  params: { slug: [ 'wp-config.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-config.php/
+Context:  {
+  params: { slug: [ 'wp-config.php.old' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-config.php.old/
+Context:  {
+  params: { slug: [ 'helpers', 'utility.js' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /helpers/utility.js/
+Context:  {
+  params: { slug: [ 'config', 'config.json' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /config/config.json/
+Context:  {
+  params: { slug: [ 'appsettings.Staging.json' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /appsettings.Staging.json/
+Context:  {
+  params: { slug: [ 'config', 'test.json' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /config/test.json/
+Context:  {
+  params: { slug: [ '.vscode', 'sftp.json' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.vscode/sftp.json/
+Context:  {
+  params: { slug: [ 'hosting.json' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /hosting.json/
+Context:  {
+  params: { slug: [ 'config', 'settings.json' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /config/settings.json/
+Context:  {
+  params: { slug: [ '.env.bak' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.env.bak/
+Context:  {
+  params: { slug: [ 'apps', '.env' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /apps/.env/
+Context:  {
+  params: { slug: [ 'development', '.env' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /development/.env/
+Context:  {
+  params: { slug: [ 'meteor.settings.json' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /meteor.settings.json/
+Context:  {
+  params: { slug: [ 'appsettings.QA.json' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /appsettings.QA.json/
+Context:  {
+  params: { slug: [ '.env-example' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.env-example/
+Context:  {
+  params: { slug: [ 'appsettings.Local.json' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /appsettings.Local.json/
+Context:  {
+  params: { slug: [ 'Properties', 'launchSettings.json' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /Properties/launchSettings.json/
+Context:  {
+  params: { slug: [ '.env-sample' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.env-sample/
+Context:  {
+  params: { slug: [ '.env.backup' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.env.backup/
+Context:  {
+  params: { slug: [ '.env.dev' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.env.dev/
+Context:  {
+  params: { slug: [ '.env.development.local' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.env.development.local/
+Context:  {
+  params: { slug: [ '.env.dev.local' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.env.dev.local/
+Context:  {
+  params: { slug: [ 'src', 'config', 'config.json' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /src/config/config.json/
+Context:  {
+  params: { slug: [ '.remote' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.remote/
+Context:  {
+  params: { slug: [ '.env.dist' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.env.dist/
+Context:  {
+  params: { slug: [ '.env.development.sample' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.env.development.sample/
+Context:  {
+  params: { slug: [ '.env.docker' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.env.docker/
+Context:  {
+  params: { slug: [ 'src', 'settings.json' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /src/settings.json/
+Context:  {
+  params: { slug: [ 'private', 'config.json' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /private/config.json/
+Context:  {
+  params: { slug: [ '.env.docker.dev' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.env.docker.dev/
+Context:  {
+  params: { slug: [ 'config', 'dev.json' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /config/dev.json/
+Context:  {
+  params: { slug: [ '.env.example' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.env.example/
+Context:  {
+  params: { slug: [ '.env.local' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.env.local/
+Context:  {
+  params: { slug: [ '.env.prod' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.env.prod/
+Context:  {
+  params: { slug: [ 'config', 'prod.json' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /config/prod.json/
+Context:  {
+  params: { slug: [ '.env.prod.local' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.env.prod.local/
+Context:  {
+  params: { slug: [ '.env.production' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.env.production/
+Context:  {
+  params: { slug: [ 'config', 'local.json' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /config/local.json/
+Context:  {
+  params: { slug: [ 'config', 'staging.json' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /config/staging.json/
+Context:  {
+  params: { slug: [ '.env.production.local' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.env.production.local/
+Context:  {
+  params: { slug: [ 'conf', 'application.json' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /conf/application.json/
+Context:  {
+  params: { slug: [ '.env.sample' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.env.sample/
+Context:  {
+  params: { slug: [ 'public', '.env' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /public/.env/
+Context:  {
+  params: { slug: [ '.docker', 'config.json' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.docker/config.json/
+Context:  {
+  params: { slug: [ '.env.save' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.env.save/
+Context:  {
+  params: { slug: [ '.env.stage' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.env.stage/
+Context:  {
+  params: { slug: [ 'config', 'daemon.json' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /config/daemon.json/
+Context:  {
+  params: { slug: [ '.env.travis' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.env.travis/
+Context:  {
+  params: { slug: [ 'laravel', '.env' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /laravel/.env/
+Context:  {
+  params: {
+    slug: [
+      '_next',
+      'static',
+      'css',
+      '42c3a6d836d984fd.css" as="style" crossorigin=""',
+      '><link rel="stylesheet" href="',
+      '_next',
+      'static',
+      'css',
+      '42c3a6d836d984fd.css" crossorigin="" data-n-g=""',
+      '><link rel="preload" href="',
+      '_next',
+      'static',
+      'css',
+      '3d223db648f3349a.css" as="style" crossorigin=""',
+      '><link rel="stylesheet" href="',
+      '_next',
+      'static',
+      'css',
+      '3d223db648f3349a.css" crossorigin="" data-n-p=""',
+      '><noscript data-n-css=""><',
+      'noscript><script defer="" crossorigin="" nomodule="" src="',
+      '_next',
+      'static',
+      'chunks',
+      'polyfills-c67a75d1b6f99dc8.js'
+    ]
+  },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /_next/static/css/42c3a6d836d984fd.css" as="style" crossorigin=""/><link rel="stylesheet" href="/_next/static/css/42c3a6d836d984fd.css" crossorigin="" data-n-g=""/><link rel="preload" href="/_next/static/css/3d223db648f3349a.css" as="style" crossorigin=""/><link rel="stylesheet" href="/_next/static/css/3d223db648f3349a.css" crossorigin="" data-n-p=""/><noscript data-n-css=""></noscript><script defer="" crossorigin="" nomodule="" src="/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js/
+Context:  {
+  params: { slug: [ 'laravel', 'core', '.env' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /laravel/core/.env/
+Context:  {
+  params: { slug: [ 'beta', '.env' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /beta/.env/
+Context:  {
+  params: { slug: [ '.envrc' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.envrc/
+Context:  {
+  params: { slug: [ 'app', '.env' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /app/.env/
+Context:  {
+  params: { slug: [ 'prevlaravel', 'sftp-config.json' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /prevlaravel/sftp-config.json/
+Context:  {
+  params: { slug: [ 'config', 'queue.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /config/queue.php/
+Context:  {
+  params: { slug: [ 'config', 'auth.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /config/auth.php/
+Context:  {
+  params: { slug: [ 'config', 'session.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /config/session.php/
+Context:  {
+  params: { slug: [ 'php.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /php.php/
+Context:  {
+  params: { slug: [ 'config', 'view.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /config/view.php/
+Context:  {
+  params: { slug: [ 'config.json' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /config.json/
+Context:  {
+  params: { slug: [ 'application', 'config', 'foreign_chars.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /application/config/foreign_chars.php/
+Context:  {
+  params: { slug: [ 'config', 'cache.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /config/cache.php/
+Context:  {
+  params: { slug: [ 'tsconfig.app.json' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /tsconfig.app.json/
+Context:  {
+  params: { slug: [ 'config', 'database.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /config/database.php/
+Context:  {
+  params: { slug: [ 'config', 'application.config.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /config/application.config.php/
+Context:  {
+  params: { slug: [ 'config', 'routes.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /config/routes.php/
+Context:  {
+  params: { slug: [ 'config', 'autoload', 'global.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /config/autoload/global.php/
+Context:  {
+  params: { slug: [ 'application', 'config', 'mimes.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /application/config/mimes.php/
+Context:  {
+  params: { slug: [ 'config', 'app.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /config/app.php/
+Context:  {
+  params: { slug: [ 'appsettings.Development.json' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /appsettings.Development.json/
+Context:  {
+  params: { slug: [ 'config', 'mail.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /config/mail.php/
+Context:  {
+  params: { slug: [ 'app_dev.php', '_profiler', 'phpinfo' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /app_dev.php/_profiler/phpinfo/
+Context:  {
+  params: { slug: [ 'config', 'security.config.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /config/security.config.php/
+Context:  {
+  params: { slug: [ 'config', 'app.default.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /config/app.default.php/
+Context:  {
+  params: { slug: [ 'config', 'cli_bootstrap.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /config/cli_bootstrap.php/
+Context:  {
+  params: { slug: [ 'angular.json' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /angular.json/
+Context:  {
+  params: { slug: [ '.vscode', '.env' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.vscode/.env/
+Context:  {
+  params: { slug: [ 'wp-includes', 'wlwmanifest.xml' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-includes/wlwmanifest.xml/
+Context:  {
+  params: { slug: [ 'xmlrpc.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /xmlrpc.php/
+Context:  {
+  params: { slug: [ 'wp-json', 'oembed', '1.0', 'embed' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-json/oembed/1.0/embed/
+Context:  {
+  params: { slug: [ 'my-account' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /my-account/
+Context:  {
+  params: { slug: [ 'benefits-main', 'guidelines' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /benefits-main/guidelines/
+Context:  {
+  params: {
+    slug: [ 'wp-content', 'uploads', '2023', '11', 'Class_Courses_V2.pdf' ]
+  },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/uploads/2023/11/Class_Courses_V2.pdf/
+Context:  {
+  params: { slug: [ 'wp-login.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-login.php/
+Context:  {
+  params: { slug: [ 'product', 'pastor-daryl-barnett-pt-2-fma-2020' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /product/pastor-daryl-barnett-pt-2-fma-2020/
+Context:  {
+  params: { slug: [ 'gifclass.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /gifclass.php/
+Context:  {
+  params: { slug: [ 'bless.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /bless.php/
+Context:  {
+  params: { slug: [ 'clas.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /clas.php/
+Context:  {
+  params: { slug: [ 'class-t.api.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /class-t.api.php/
+Context:  {
+  params: { slug: [ 'akcc.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /akcc.php/
+Context:  {
+  params: { slug: [ 'akcc1.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /akcc1.php/
+Context:  {
+  params: { slug: [ 'akc1.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /akc1.php/
+Context:  {
+  params: { slug: [ 'wpc.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wpc.php/
+Context:  {
+  params: { slug: [ 'product-category', 'women', 'polo-shirt-women' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /product-category/women/polo-shirt-women/
+Context:  {
+  params: { slug: [ '888.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /888.php/
+Context:  {
+  params: {
+    slug: [
+      'wp-content',
+      'uploads',
+      '2020',
+      '09',
+      'BillWinstonSignature-white.png'
+    ]
+  },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/uploads/2020/09/BillWinstonSignature-white.png/
+Context:  {
+  params: {
+    slug: [ 'wp-content', 'uploads', '2025', '02', '1920x1080-600x338.jpg' ]
+  },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/uploads/2025/02/1920x1080-600x338.jpg/
+Context:  {
+  params: { slug: [ '1.asp' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /1.asp/
+Context:  {
+  params: { slug: [ 'wp-content', 'uploads', '2020', '09', 'winston.png' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/uploads/2020/09/winston.png/
+Context:  {
+  params: { slug: [ 'wp-content', 'plugins', 'incache', 'index.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/plugins/incache/index.php/
+Context:  {
+  params: {
+    slug: [
+      'wp-content',
+      'uploads',
+      '2020',
+      '09',
+      'FMA-remastered-homepage-intro.mp4'
+    ]
+  },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/uploads/2020/09/FMA-remastered-homepage-intro.mp4/
+Context:  {
+  params: { slug: [ 'homepage' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /homepage/
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  {
+  verticalAlignment: 'center',
+  style: { spacing: { margin: [Object] } },
+  backgroundColor: 'primaryDark',
+  isStackedOnMobile: true
+}
+COLUMNS:  {
+  style: { color: { background: '#a0e4ff' } },
+  isStackedOnMobile: true
+}
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  {
+  verticalAlignment: 'center',
+  align: 'wide',
+  style: {
+    spacing: { margin: [Object], padding: [Object], blockGap: [Object] }
+  },
+  isStackedOnMobile: true
+}
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { style: { spacing: { margin: [Object] } }, isStackedOnMobile: true }
+Context:  {
+  params: {
+    slug: [
+      'wp-content',
+      'uploads',
+      '2020',
+      '09',
+      'logo-gold-3-3-e1599252152717.png'
+    ]
+  },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/uploads/2020/09/logo-gold-3-3-e1599252152717.png/
+Context:  {
+  params: { slug: [ 'live-stream-spanish' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /live-stream-spanish/
+Context:  {
+  params: { slug: [ 'product', 'fma-2023-mp3-video-downloads', 'feed' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /product/fma-2023-mp3-video-downloads/feed/
+Context:  {
+  params: { slug: [ 'members', 'tools-resources' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /members/tools-resources/
+COLUMNS:  {
+  verticalAlignment: 'center',
+  style: { spacing: { margin: [Object] } },
+  isStackedOnMobile: true
+}
+COLUMNS:  {
+  verticalAlignment: 'center',
+  style: { spacing: { margin: [Object] } },
+  isStackedOnMobile: true
+}
+COLUMNS:  {
+  verticalAlignment: 'center',
+  style: { spacing: { margin: [Object] } },
+  isStackedOnMobile: true
+}
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+Context:  {
+  params: { slug: [ 'wp-admin', 'admin-ajax.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-admin/admin-ajax.php/
+Context:  {
+  params: { slug: [ 'api', '.env' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /api/.env/
+Context:  {
+  params: { slug: [ 'test', '.env' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /test/.env/
+Context:  {
+  params: { slug: [ 'admin', '.env' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /admin/.env/
+Context:  {
+  params: { slug: [ 'vendor', '.env' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /vendor/.env/
+Context:  {
+  params: { slug: [ 'sites', '.env' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /sites/.env/
+Context:  {
+  params: { slug: [ 'blog', '.env' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /blog/.env/
+Context:  {
+  params: { slug: [ 'system', '.env' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /system/.env/
+Context:  {
+  params: { slug: [ 'shop', '.env' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /shop/.env/
+Context:  {
+  params: { slug: [ 'wp-admin', 'css' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-admin/css/
+Context:  {
+  params: { slug: [ '.well-known' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.well-known/
+Context:  {
+  params: { slug: [ 'sites', 'default', 'files' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /sites/default/files/
+Context:  {
+  params: { slug: [ 'admin', 'controller', 'extension', 'extension' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /admin/controller/extension/extension/
+Context:  {
+  params: { slug: [ 'uploads' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /uploads/
+Context:  {
+  params: { slug: [ 'images' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /images/
+Context:  {
+  params: { slug: [ 'files' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /files/
+Context:  {
+  params: { slug: [ 'woh.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /woh.php/
+Context:  {
+  params: { slug: [ 'classwithtostring.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /classwithtostring.php/
+Context:  {
+  params: { slug: [ 'simple.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /simple.php/
+Context:  {
+  params: { slug: [ 'zero.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /zero.php/
+Context:  {
+  params: { slug: [ 'wp-content', 'plugins', 'include.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/plugins/include.php/
+Context:  {
+  params: { slug: [ 'phpmailer.lang-sv.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /phpmailer.lang-sv.php/
+Context:  {
+  params: { slug: [ 'wp-content', 'themes', 'sketch', '404.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/themes/sketch/404.php/
+Context:  {
+  params: {
+    slug: [ 'wp-admin', 'css', 'colors', 'ectoplasm', 'load-styles.php' ]
+  },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-admin/css/colors/ectoplasm/load-styles.php/
+Context:  {
+  params: {
+    slug: [ 'wp-content', 'plugins', 'wp-help', 'admin', 'wp-fclass.php' ]
+  },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/plugins/wp-help/admin/wp-fclass.php/
+Context:  {
+  params: { slug: [ 'wp-content', 'plugins', 'wp-help', 'index.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/plugins/wp-help/index.php/
+Context:  {
+  params: { slug: [ 'cgi-bin', 'class_api.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /cgi-bin/class_api.php/
+Context:  {
+  params: { slug: [ 'wp-admin', 'images', 'class.api.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-admin/images/class.api.php/
+Context:  {
+  params: { slug: [ 'wp-admin', 'js', 'widgets', 'class.api.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-admin/js/widgets/class.api.php/
+Context:  {
+  params: { slug: [ '.well-known', 'pki-validation', 'class_api.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.well-known/pki-validation/class_api.php/
+Context:  {
+  params: { slug: [ 'class_api.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /class_api.php/
+Context:  {
+  params: { slug: [ 'class.api.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /class.api.php/
+Context:  {
+  params: { slug: [ 'wp-content', 'themes', 'tflow', 'up.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/themes/tflow/up.php/
+Context:  {
+  params: { slug: [ 'wp-content', 'themes', 'wp-pridmag', 'up.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/themes/wp-pridmag/up.php/
+Context:  {
+  params: { slug: [ '.well-known', 'acme-challenge', 'atomlib.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.well-known/acme-challenge/atomlib.php/
+Context:  {
+  params: { slug: [ '.well-known', 'pki-validation', 'atomlib.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.well-known/pki-validation/atomlib.php/
+Context:  {
+  params: { slug: [ 'images', 'atomlib.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /images/atomlib.php/
+Context:  {
+  params: { slug: [ 'wp-admin', 'css', 'atomlib.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-admin/css/atomlib.php/
+Context:  {
+  params: { slug: [ 'wp-admin', 'css', 'colors', 'blue', 'atomlib.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-admin/css/colors/blue/atomlib.php/
+Context:  {
+  params: { slug: [ 'wp-admin', 'includes', 'atomlib.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-admin/includes/atomlib.php/
+Context:  {
+  params: { slug: [ 'wp-admin', 'maint', 'atomlib.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-admin/maint/atomlib.php/
+Context:  {
+  params: { slug: [ 'wp-content', 'languages', 'themes', 'atomlib.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/languages/themes/atomlib.php/
+Context:  {
+  params: { slug: [ 'wp-content', 'themes', 'atomlib.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/themes/atomlib.php/
+Context:  {
+  params: { slug: [ 'wp-admin', 'images', 'moon.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-admin/images/moon.php/
+Context:  {
+  params: { slug: [ '.tmb', 'moon.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.tmb/moon.php/
+Context:  {
+  params: { slug: [ '.well-known', 'acme-challenge', 'moon.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.well-known/acme-challenge/moon.php/
+Context:  {
+  params: { slug: [ 'cgi-bin', 'moon.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /cgi-bin/moon.php/
+Context:  {
+  params: { slug: [ 'wp-admin', 'user', 'moon.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-admin/user/moon.php/
+Context:  {
+  params: { slug: [ 'wp-content', 'upgrade', 'moon.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/upgrade/moon.php/
+Context:  {
+  params: { slug: [ 'wp-admin', 'js', 'widgets', 'moon.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-admin/js/widgets/moon.php/
+Context:  {
+  params: { slug: [ 'wp-admin', 'maint', 'moon.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-admin/maint/moon.php/
+Context:  {
+  params: { slug: [ 'wp-includes', 'ID3', 'moon.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-includes/ID3/moon.php/
+Context:  {
+  params: { slug: [ 'wp-includes', 'certificates', 'moon.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-includes/certificates/moon.php/
+Context:  {
+  params: { slug: [ 'wp-admin', 'includes', 'moon.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-admin/includes/moon.php/
+Context:  {
+  params: { slug: [ 'wp-includes', 'IXR', 'moon.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-includes/IXR/moon.php/
+Context:  {
+  params: { slug: [ 'cjfuns.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /cjfuns.php/
+Context:  {
+  params: { slug: [ 'classfuns.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /classfuns.php/
+Context:  {
+  params: { slug: [ 'tempfuns.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /tempfuns.php/
+Context:  {
+  params: { slug: [ 'adminfuns.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /adminfuns.php/
+Context:  {
+  params: { slug: [ 'nf_tracking.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /nf_tracking.php/
+Context:  {
+  params: { slug: [ 'wp-content', 'wso.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/wso.php/
+Context:  {
+  params: { slug: [ 'wp-includes', 'wso.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-includes/wso.php/
+Context:  {
+  params: { slug: [ 'wso.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wso.php/
+Context:  {
+  params: { slug: [ 'wp-content', 'uploads', 'wp-apxupx.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/uploads/wp-apxupx.php/
+Context:  {
+  params: { slug: [ 'wp-content', 'upgrade', 'class_api.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/upgrade/class_api.php/
+Context:  {
+  params: { slug: [ 'cgi-bin', 'sgd.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /cgi-bin/sgd.php/
+Context:  {
+  params: { slug: [ 'wp-admin', 'js', 'widgets', 'sgd.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-admin/js/widgets/sgd.php/
+Context:  {
+  params: { slug: [ 'wp-apxupx.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-apxupx.php/
+Context:  {
+  params: { slug: [ 'wp-includes', 'IXR', 'class.api.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-includes/IXR/class.api.php/
+Context:  {
+  params: { slug: [ 'wp-content', 'languages', 'class_api.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/languages/class_api.php/
+Context:  {
+  params: { slug: [ '.well-known', 'acme-challenge', 'class_api.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.well-known/acme-challenge/class_api.php/
+Context:  {
+  params: { slug: [ '.tmb', 'mariju.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.tmb/mariju.php/
+Context:  {
+  params: { slug: [ 'wp-content', 'languages', 'themes', 'class_api.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/languages/themes/class_api.php/
+Context:  {
+  params: { slug: [ 'wp-admin', 'includes', 'class_api.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-admin/includes/class_api.php/
+Context:  {
+  params: { slug: [ 'wp-admin', 'js', 'widgets', 'class_api.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-admin/js/widgets/class_api.php/
+Context:  {
+  params: { slug: [ 'wp-admin', 'network', 'class_api.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-admin/network/class_api.php/
+Context:  {
+  params: { slug: [ '.tmb', 'class_api.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.tmb/class_api.php/
+Context:  {
+  params: { slug: [ 'assets', 'class_api.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /assets/class_api.php/
+Context:  {
+  params: { slug: [ 'common', 'css', 'class_api.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /common/css/class_api.php/
+Context:  {
+  params: { slug: [ 'common', 'img', 'class_api.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /common/img/class_api.php/
+Context:  {
+  params: { slug: [ '.well-known', 'acme-challenge', 'mariju.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.well-known/acme-challenge/mariju.php/
+Context:  {
+  params: { slug: [ 'wp-admin', 'user', 'class_api.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-admin/user/class_api.php/
+Context:  {
+  params: {
+    slug: [ 'wp-includes', 'rest-api', 'fields', 'cache', 'index.php' ]
+  },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-includes/rest-api/fields/cache/index.php/
+Context:  {
+  params: { slug: [ 'wp-content', 'themes', 'travel', 'issue.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/themes/travel/issue.php/
+Context:  {
+  params: { slug: [ 'wp-includes', 'IXR', 'class_api.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-includes/IXR/class_api.php/
+Context:  {
+  params: { slug: [ 'wp-includes', 'Requests', 'class_api.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-includes/Requests/class_api.php/
+Context:  {
+  params: { slug: [ 'wp-includes', 'random_compat', 'class_api.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-includes/random_compat/class_api.php/
+Context:  {
+  params: { slug: [ 'wp-content', 'themes', 'hello-element', 'footer.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/themes/hello-element/footer.php/
+Context:  {
+  params: { slug: [ 'wp-includes', 'ID3', 'license.txt' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-includes/ID3/license.txt/
+Context:  {
+  params: { slug: [ 'blog', 'wp-includes', 'wlwmanifest.xml' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /blog/wp-includes/wlwmanifest.xml/
+Context:  {
+  params: { slug: [ 'web', 'wp-includes', 'wlwmanifest.xml' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /web/wp-includes/wlwmanifest.xml/
+Context:  {
+  params: { slug: [ 'wordpress', 'wp-includes', 'wlwmanifest.xml' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wordpress/wp-includes/wlwmanifest.xml/
+Context:  {
+  params: { slug: [ 'wp', 'wp-includes', 'wlwmanifest.xml' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp/wp-includes/wlwmanifest.xml/
+Context:  {
+  params: { slug: [ '2020', 'wp-includes', 'wlwmanifest.xml' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /2020/wp-includes/wlwmanifest.xml/
+Context:  {
+  params: { slug: [ '2019', 'wp-includes', 'wlwmanifest.xml' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /2019/wp-includes/wlwmanifest.xml/
+Context:  {
+  params: { slug: [ '2021', 'wp-includes', 'wlwmanifest.xml' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /2021/wp-includes/wlwmanifest.xml/
+Context:  {
+  params: { slug: [ 'shop', 'wp-includes', 'wlwmanifest.xml' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /shop/wp-includes/wlwmanifest.xml/
+Context:  {
+  params: { slug: [ 'wp1', 'wp-includes', 'wlwmanifest.xml' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp1/wp-includes/wlwmanifest.xml/
+Context:  {
+  params: { slug: [ 'test', 'wp-includes', 'wlwmanifest.xml' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /test/wp-includes/wlwmanifest.xml/
+Context:  {
+  params: { slug: [ 'site', 'wp-includes', 'wlwmanifest.xml' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /site/wp-includes/wlwmanifest.xml/
+Context:  {
+  params: { slug: [ 'cms', 'wp-includes', 'wlwmanifest.xml' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /cms/wp-includes/wlwmanifest.xml/
+Context:  {
+  params: { slug: [ 'product-category', 'cup' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /product-category/cup/
+Context:  {
+  params: {
+    slug: [ 'wp-content', 'uploads', '2022', '11', 'FMA-Bag-300x300.jpg' ]
+  },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/uploads/2022/11/FMA-Bag-300x300.jpg/
+Context:  {
+  params: { slug: [ 'ads.txt' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /ads.txt/
+Context:  {
+  params: {
+    slug: [ 'wp-content', 'uploads', '2021', '08', 'FMA2021_CD-150x150.png' ]
+  },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/uploads/2021/08/FMA2021_CD-150x150.png/
+Context:  {
+  params: { slug: [ '2021fmatraining' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /2021fmatraining/
+Context:  {
+  params: { slug: [ '321.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /321.php/
+Context:  {
+  params: {
+    slug: [ 'wp-content', 'uploads', '2020', '09', 'IMG_6322-1024x683.jpeg' ]
+  },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/uploads/2020/09/IMG_6322-1024x683.jpeg/
+Context:  {
+  params: { slug: [ 'about', 'statement-of-faith' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /about/statement-of-faith/
+Context:  {
+  params: { slug: [ 'home' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /home/
+Context:  {
+  params: {
+    slug: [ 'wp-content', 'uploads', '2020', '09', 'IMG_1274-1024x683.jpg' ]
+  },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/uploads/2020/09/IMG_1274-1024x683.jpg/
+Context:  {
+  params: { slug: [ 'wordpress' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wordpress/
+Context:  {
+  params: {
+    slug: [
+      'component',
+      'k2',
+      'item',
+      '31-go-hard-for-christ-youth-ministry'
+    ]
+  },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /component/k2/item/31-go-hard-for-christ-youth-ministry/
+Context:  {
+  params: { slug: [ 'b02.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /b02.php/
+Context:  {
+  params: { slug: [ 'product-category', 'men', 'polo-shirt' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /product-category/men/polo-shirt/
+Context:  {
+  params: { slug: [ 'fma-south-africa' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /fma-south-africa/
+COLUMNS:  {
+  verticalAlignment: 'center',
+  style: { spacing: { margin: [Object] } },
+  backgroundColor: 'primaryDark',
+  isStackedOnMobile: true
+}
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+Context:  {
+  params: { slug: [ 'trainings-and-development' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /trainings-and-development/
+Context:  {
+  params: { slug: [ 'licensing' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /licensing/
+Context:  {
+  params: { slug: [ 'wp-content', 'uploads', '2020', '09', 'Bill-W.png' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/uploads/2020/09/Bill-W.png/
+Context:  {
+  params: { slug: [ 'join-fma' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /join-fma/
+Context:  {
+  params: {
+    slug: [
+      'wp-content',
+      'uploads',
+      '2024',
+      '10',
+      'FMA24-DVD-Web-3D-Image-100x100.png'
+    ]
+  },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/uploads/2024/10/FMA24-DVD-Web-3D-Image-100x100.png/
+Context:  {
+  params: {
+    slug: [
+      'wp-content',
+      'plugins',
+      'podlove-podcasting-plugin-for-wordpress',
+      'readme.txt'
+    ]
+  },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/plugins/podlove-podcasting-plugin-for-wordpress/readme.txt/
+Context:  {
+  params: {
+    slug: [ 'wp-content', 'uploads', '2020', '09', 'IMG_6322-300x200.jpeg' ]
+  },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/uploads/2020/09/IMG_6322-300x200.jpeg/
+Context:  {
+  params: {
+    slug: [
+      '"https:',
+      'faithministriesalliance.org',
+      'wp-content',
+      'uploads',
+      '2020',
+      '09',
+      'IMG_6199.jpg',
+      '"'
+    ]
+  },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /"https:/faithministriesalliance.org/wp-content/uploads/2020/09/IMG_6199.jpg/"/
+Context:  {
+  params: { slug: [ 'static', 'images', 'nopic.png' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /static/images/nopic.png/
+Context:  {
+  params: { slug: [ 'product', 'fma-2021-mp3-audio' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /product/fma-2021-mp3-audio/
+Context:  {
+  params: {
+    slug: [
+      'wp-content',
+      'uploads',
+      '2022',
+      '03',
+      'FR2022-FMA-3D-Image-CD-100x100.png'
+    ]
+  },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/uploads/2022/03/FR2022-FMA-3D-Image-CD-100x100.png/
+Context:  {
+  params: {
+    slug: [
+      'wp-content',
+      'uploads',
+      '2024',
+      '10',
+      'FMA24-DVD-Web-3D-Image-200x200.png'
+    ]
+  },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/uploads/2024/10/FMA24-DVD-Web-3D-Image-200x200.png/
+Context:  {
+  params: {
+    slug: [
+      '"https:',
+      'faithministriesalliance.org',
+      'wp-content',
+      'uploads',
+      '2020',
+      '09',
+      'BillWinstonSignature-white.png',
+      '"'
+    ]
+  },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /"https:/faithministriesalliance.org/wp-content/uploads/2020/09/BillWinstonSignature-white.png/"/
+Context:  {
+  params: { slug: [ 'wp-admin' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-admin/
+Context:  {
+  params: { slug: [ 'z9vo.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /z9vo.php/
+Context:  {
+  params: {
+    slug: [
+      '"https:',
+      'faithministriesalliance.org',
+      'wp-content',
+      'uploads',
+      '2020',
+      '09',
+      'IMG_6218-1024x683.jpg',
+      '"'
+    ]
+  },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /"https:/faithministriesalliance.org/wp-content/uploads/2020/09/IMG_6218-1024x683.jpg/"/
+Context:  {
+  params: {
+    slug: [ 'wp-content', 'uploads', '2022', '11', 'FMA-Bag-100x100.jpg' ]
+  },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/uploads/2022/11/FMA-Bag-100x100.jpg/
+Context:  {
+  params: {
+    slug: [ 'wp-content', 'uploads', '2021', '08', 'FMA2021_CD-300x300.png' ]
+  },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/uploads/2021/08/FMA2021_CD-300x300.png/
+Context:  {
+  params: { slug: [ 'app', 'etc', 'local.xml' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /app/etc/local.xml/
+Context:  {
+  params: { slug: [ 'api', 'index.php', 'v1', 'config', 'application' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /api/index.php/v1/config/application/
+Context:  {
+  params: { slug: [ 'env' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /env/
+Context:  {
+  params: { slug: [ 'services', '.env' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /services/.env/
+Context:  {
+  params: { slug: [ 'config', '.env' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /config/.env/
+Context:  {
+  params: { slug: [ 'service', '.env' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /service/.env/
+Context:  {
+  params: { slug: [ 'demo', '.env' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /demo/.env/
+Context:  {
+  params: { slug: [ 'env.txt' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /env.txt/
+Context:  {
+  params: { slug: [ 'local', '.env' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /local/.env/
+Context:  {
+  params: { slug: [ 'blog1', '.env' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /blog1/.env/
+Context:  {
+  params: { slug: [ 'site', '.env' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /site/.env/
+Context:  {
+  params: { slug: [ 'home', '.env' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /home/.env/
+Context:  {
+  params: { slug: [ 'web', '.env' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /web/.env/
+Context:  {
+  params: { slug: [ '.env1' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.env1/
+Context:  {
+  params: { slug: [ 'website', '.env' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /website/.env/
+Context:  {
+  params: { slug: [ 'product', 'leading-in-crisis-pastor-timothy-mcbride' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /product/leading-in-crisis-pastor-timothy-mcbride/
+Context:  {
+  params: {
+    slug: [ 'product', '2025-fma-pastor-and-leadership-training-mp4' ]
+  },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /product/2025-fma-pastor-and-leadership-training-mp4/

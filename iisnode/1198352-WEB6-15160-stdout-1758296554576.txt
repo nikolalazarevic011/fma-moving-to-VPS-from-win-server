@@ -1,0 +1,657 @@
+> Ready on http://localhost:\\.\pipe\dc0ee299-0a06-4e31-8db9-0b87cac508ee
+Context:  {
+  params: { slug: [ 'guidelines' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /guidelines/
+Context:  {
+  params: { slug: [ 'benefits' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /benefits/
+Context:  {
+  params: { slug: [ 'about-fma' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /about-fma/
+Context:  {
+  params: { slug: [ 'fma-south-africa' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /fma-south-africa/
+Context:  {
+  params: { slug: [ 'donate' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /donate/
+Context:  {
+  params: { slug: [ 'faq' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /faq/
+COLUMNS:  {
+  metadata: {
+    categories: [ 'header', 'title' ],
+    patternName: 'core/block/1262',
+    name: 'page title with underline'
+  },
+  isStackedOnMobile: true
+}
+COLUMNS:  {
+  style: { spacing: { margin: [Object], blockGap: [Object] } },
+  isStackedOnMobile: true
+}
+COLUMNS:  { style: { spacing: { margin: [Object] } }, isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+Context:  {
+  params: { slug: [ 'contact-us' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /contact-us/
+COLUMNS:  { style: { spacing: { margin: [Object] } }, isStackedOnMobile: true }
+COLUMNS:  {
+  verticalAlignment: 'center',
+  isStackedOnMobile: false,
+  style: {
+    border: { radius: '6px', width: '1px' },
+    spacing: { padding: [Object], margin: [Object] }
+  },
+  borderColor: 'primary'
+}
+COLUMNS:  {
+  verticalAlignment: 'center',
+  style: { spacing: { margin: [Object] } },
+  backgroundColor: 'primaryDark',
+  isStackedOnMobile: true
+}
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  {
+  verticalAlignment: 'center',
+  style: { spacing: { margin: [Object] } },
+  isStackedOnMobile: true
+}
+COLUMNS:  {
+  verticalAlignment: 'center',
+  style: {
+    spacing: { margin: [Object], padding: [Object], blockGap: [Object] }
+  },
+  isStackedOnMobile: true
+}
+COLUMNS:  { isStackedOnMobile: true }
+Context:  {
+  params: { slug: [ 'homepage' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /homepage/
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  {
+  verticalAlignment: 'center',
+  style: { spacing: { margin: [Object] } },
+  backgroundColor: 'primaryDark',
+  isStackedOnMobile: true
+}
+COLUMNS:  {
+  style: { color: { background: '#a0e4ff' } },
+  isStackedOnMobile: true
+}
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  {
+  verticalAlignment: 'center',
+  align: 'wide',
+  style: {
+    spacing: { margin: [Object], padding: [Object], blockGap: [Object] }
+  },
+  isStackedOnMobile: true
+}
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { style: { spacing: { margin: [Object] } }, isStackedOnMobile: true }
+Context:  {
+  params: { slug: [ '[...slug]' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /[...slug]/
+Context:  {
+  params: { slug: [ 'members', 'tools-resources' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /members/tools-resources/
+Context:  {
+  params: { slug: [ 'members', 'trainings-and-development' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /members/trainings-and-development/
+COLUMNS:  {
+  verticalAlignment: 'center',
+  style: { spacing: { margin: [Object] } },
+  isStackedOnMobile: true
+}
+COLUMNS:  {
+  verticalAlignment: 'center',
+  style: { spacing: { margin: [Object] } },
+  isStackedOnMobile: true
+}
+COLUMNS:  {
+  verticalAlignment: 'center',
+  style: { spacing: { margin: [Object] } },
+  isStackedOnMobile: true
+}
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  {
+  verticalAlignment: 'center',
+  style: { spacing: { margin: [Object] } },
+  isStackedOnMobile: true
+}
+Context:  {
+  params: { slug: [ 'index.php', 'benefits-main', 'benefits' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /index.php/benefits-main/benefits/
+Context:  {
+  params: { slug: [ 'robots.txt' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /robots.txt/
+Context:  {
+  params: { slug: [ 'applications', 'school-of-ministry-and-missions' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /applications/school-of-ministry-and-missions/
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  {
+  verticalAlignment: 'center',
+  isStackedOnMobile: false,
+  style: {
+    border: { radius: '6px', width: '1px' },
+    spacing: { padding: [Object], margin: [Object] }
+  },
+  borderColor: 'primary'
+}
+COLUMNS:  {
+  verticalAlignment: 'center',
+  isStackedOnMobile: false,
+  style: {
+    border: { radius: '6px', width: '1px' },
+    spacing: { padding: [Object], margin: [Object] }
+  },
+  borderColor: 'primary'
+}
+COLUMNS:  {
+  verticalAlignment: 'center',
+  isStackedOnMobile: false,
+  style: {
+    border: { radius: '6px', width: '1px' },
+    spacing: { padding: [Object], margin: [Object] }
+  },
+  borderColor: 'primary'
+}
+COLUMNS:  {
+  verticalAlignment: 'center',
+  isStackedOnMobile: false,
+  style: {
+    border: { radius: '6px', width: '1px' },
+    spacing: { padding: [Object], margin: [Object] }
+  },
+  borderColor: 'primary'
+}
+COLUMNS:  {
+  verticalAlignment: 'center',
+  isStackedOnMobile: false,
+  style: {
+    border: { radius: '6px', width: '1px' },
+    spacing: { padding: [Object], margin: [Object] }
+  },
+  borderColor: 'primary'
+}
+COLUMNS:  {
+  verticalAlignment: 'center',
+  isStackedOnMobile: false,
+  style: {
+    border: { radius: '6px', width: '1px' },
+    spacing: { padding: [Object], margin: [Object] }
+  },
+  borderColor: 'primary'
+}
+Context:  {
+  params: {
+    slug: [
+      'wp-content',
+      'plugins',
+      'wordpress-corde',
+      'wordpresse-kore.php'
+    ]
+  },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/plugins/wordpress-corde/wordpresse-kore.php/
+Context:  {
+  params: {
+    slug: [ 'wp-content', 'plugins', 'wordpress-core', 'wordpress-core.php' ]
+  },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/plugins/wordpress-core/wordpress-core.php/
+Context:  {
+  params: { slug: [ '.well-known', 'assetlinks.json' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.well-known/assetlinks.json/
+Context:  {
+  params: { slug: [ '.well-known', 'traffic-advice' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.well-known/traffic-advice/
+Context:  {
+  params: {
+    slug: [
+      'wp-content',
+      'uploads',
+      '2024',
+      '10',
+      'FMA24-DVD-Web-3D-Image-100x100.png'
+    ]
+  },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/uploads/2024/10/FMA24-DVD-Web-3D-Image-100x100.png/
+Context:  {
+  params: { slug: [ 'tools-resources' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /tools-resources/
+Context:  {
+  params: { slug: [ 'wp-admin', 'network', 'index.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-admin/network/index.php/
+Context:  {
+  params: { slug: [ 'wp-admin', 'js', 'index.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-admin/js/index.php/
+Context:  {
+  params: { slug: [ 'wp-admin', 'images', 'index.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-admin/images/index.php/
+Context:  {
+  params: { slug: [ 'wp-admin', 'css', 'index.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-admin/css/index.php/
+Context:  {
+  params: {
+    slug: [ 'wp-includes', 'SimplePie', 'Content', 'Type', 'index.php' ]
+  },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-includes/SimplePie/Content/Type/index.php/
+Context:  {
+  params: { slug: [ 'wp-includes', 'Requests', 'Auth', 'index.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-includes/Requests/Auth/index.php/
+Context:  {
+  params: { slug: [ 'wp-admin', 'css', 'colors', 'index.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-admin/css/colors/index.php/
+Context:  {
+  params: { slug: [ 'wp-content', 'languages', 'index.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/languages/index.php/
+Context:  {
+  params: { slug: [ 'wp-content', 'upgrade', 'index.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/upgrade/index.php/
+Context:  {
+  params: { slug: [ 'wp-content', 'IXR', 'index.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/IXR/index.php/
+Context:  {
+  params: { slug: [ 'wp-content', 'plugins', 'about.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/plugins/about.php/
+Context:  {
+  params: { slug: [ 'geju.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /geju.php/
+Context:  {
+  params: { slug: [ 'wp.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp.php/
+Context:  {
+  params: { slug: [ 'trainings-and-development' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /trainings-and-development/
+Context:  {
+  params: { slug: [ 'player', 'stream_en.html' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /player/stream_en.html/
+Context:  {
+  params: { slug: [ 'about', 'founders-letter' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /about/founders-letter/
+Context:  {
+  params: { slug: [ 'applications', 'join-fma' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /applications/join-fma/
+COLUMNS:  { style: { spacing: { margin: [Object] } }, isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  {
+  verticalAlignment: 'center',
+  isStackedOnMobile: false,
+  style: {
+    border: { radius: '6px', width: '1px' },
+    spacing: { padding: [Object], margin: [Object] }
+  },
+  borderColor: 'primary'
+}
+COLUMNS:  {
+  verticalAlignment: 'center',
+  isStackedOnMobile: false,
+  style: {
+    border: { radius: '6px', width: '1px' },
+    spacing: { padding: [Object], margin: [Object] }
+  },
+  borderColor: 'primary'
+}
+Context:  {
+  params: { slug: [ 'apple-touch-icon-precomposed.png' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /apple-touch-icon-precomposed.png/
+Context:  {
+  params: { slug: [ 'apple-touch-icon.png' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /apple-touch-icon.png/
+Context:  {
+  params: { slug: [ 'applications', 'renew-fma-membership' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /applications/renew-fma-membership/
+Context:  {
+  params: { slug: [ 'applications', 'licensing' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /applications/licensing/
+Context:  {
+  params: { slug: [ 'applications', 'renew-licensing' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /applications/renew-licensing/
+Context:  {
+  params: { slug: [ 'applications', 'ordination' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /applications/ordination/
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  {
+  verticalAlignment: 'center',
+  isStackedOnMobile: false,
+  style: {
+    border: { radius: '6px', width: '1px' },
+    spacing: { padding: [Object], margin: [Object] }
+  },
+  borderColor: 'primary'
+}
+COLUMNS:  {
+  verticalAlignment: 'center',
+  isStackedOnMobile: false,
+  style: {
+    border: { radius: '6px', width: '1px' },
+    spacing: { padding: [Object], margin: [Object] }
+  },
+  borderColor: 'primary'
+}
+COLUMNS:  { style: { spacing: { margin: [Object] } }, isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  {
+  verticalAlignment: 'center',
+  isStackedOnMobile: false,
+  style: {
+    border: { radius: '6px', width: '1px' },
+    spacing: { padding: [Object], margin: [Object] }
+  },
+  borderColor: 'primary'
+}
+COLUMNS:  {
+  verticalAlignment: 'center',
+  isStackedOnMobile: false,
+  style: {
+    border: { radius: '6px', width: '1px' },
+    spacing: { padding: [Object], margin: [Object] }
+  },
+  borderColor: 'primary'
+}
+COLUMNS:  { style: { spacing: { margin: [Object] } }, isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  {
+  verticalAlignment: 'center',
+  isStackedOnMobile: false,
+  style: {
+    border: { radius: '6px', width: '1px' },
+    spacing: { padding: [Object], margin: [Object] }
+  },
+  borderColor: 'primary'
+}
+COLUMNS:  {
+  verticalAlignment: 'center',
+  isStackedOnMobile: false,
+  style: {
+    border: { radius: '6px', width: '1px' },
+    spacing: { padding: [Object], margin: [Object] }
+  },
+  borderColor: 'primary'
+}
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  {
+  verticalAlignment: 'center',
+  isStackedOnMobile: false,
+  style: {
+    border: { radius: '6px', width: '1px' },
+    spacing: { padding: [Object], margin: [Object] }
+  },
+  borderColor: 'primary'
+}
+COLUMNS:  {
+  verticalAlignment: 'center',
+  isStackedOnMobile: false,
+  style: {
+    border: { radius: '6px', width: '1px' },
+    spacing: { padding: [Object], margin: [Object] }
+  },
+  borderColor: 'primary'
+}
+Context:  {
+  params: {
+    slug: [
+      'wp-content',
+      'uploads',
+      '2021',
+      '11',
+      '2020-MUSIC-MINISTRY-MANUAL_updated-1.pdf'
+    ]
+  },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/uploads/2021/11/2020-MUSIC-MINISTRY-MANUAL_updated-1.pdf/
+Context:  {
+  params: {
+    slug: [ 'wp-content', 'uploads', '2021', '08', 'FMA2021_CD-150x150.png' ]
+  },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/uploads/2021/08/FMA2021_CD-150x150.png/
+Context:  {
+  params: { slug: [ 'product', 'fma-2022-cd' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /product/fma-2022-cd/
+Context:  {
+  params: { slug: [ 'product-category', 'bag' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /product-category/bag/
+Context:  {
+  params: { slug: [ 'wp-login.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-login.php/
+Context:  {
+  params: { slug: [ 'wp-admin' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-admin/
+Context:  {
+  params: {
+    slug: [ 'product', '2025-fma-pastor-and-leadership-training-dvd' ]
+  },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /product/2025-fma-pastor-and-leadership-training-dvd/

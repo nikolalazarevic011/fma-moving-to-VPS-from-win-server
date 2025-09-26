@@ -1,0 +1,11 @@
+{
+  "event": "test",
+  "object_type": "test",
+  "object_id": "0",
+  "data": {
+    "message": "This is a test webhook from PowerShell",
+    "test": true
+  },
+  "timestamp": "2025-09-03T16:40:49.993Z",
+  "received": "2025-09-03T16:40:49.995Z"
+}

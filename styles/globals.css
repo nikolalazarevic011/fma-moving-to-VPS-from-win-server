@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Aboreto&family=Poppins:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @layer components {
+    .btn {
+        @apply inline-block px-4 py-2 my-2 font-bold uppercase bg-transparent border-2 rounded-md cursor-pointer text-fbe6ba border-fbe6ba ;
+    }
+} */
+
+body {
+  /* background-color: #f0f0f1; */
+}
+
+
+.swiper {
+    width: 100%;
+    height: 10rem;
+  }
+
+  @media (max-width: 468px) {
+    .swiper {
+        height: 5rem; /* Increased height for larger screens */
+    }
+}
+
+  .swiper-slide {
+    /* text-align: center;
+    font-size: 18px;
+    background: #fff; */
+  
+    /* Center slide text vertically */
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+  }
+  
+  .swiper-slide img {
+    /* display: block;
+    width: 270px;
+    height: 100px;
+    object-fit: cover; */
+    /* margin-left: 1rem; */
+  }
+  
+  .swiper-button-prev, .swiper-button-next {
+    /* Increase padding to make buttons larger */
+    /* margin: 10px -10px 10px -10px;  */
+    
+  }
+  .swiper-button-prev:after, .swiper-button-next:after {
+    /* Increase font size of arrows */
+    /* font-size: 20px; */
+  }
+  .parallax {
+    overflow: hidden;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }

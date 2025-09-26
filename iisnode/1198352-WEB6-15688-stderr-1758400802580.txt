@@ -1,0 +1,152 @@
+(node:15688) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Warning: For production Image Optimization with Next.js, the optional 'sharp' package is strongly recommended. Run 'npm i sharp', and Next.js will use it automatically for Image Optimization.
+Read more: https://nextjs.org/docs/messages/sharp-missing-in-production
+No data found for URI: /.env/
+No data found for URI: /robots.txt/
+No data found for URI: /apple-touch-icon-120x120-precomposed.png/
+No data found for URI: /apple-touch-icon-120x120.png/
+No data found for URI: /apple-touch-icon-precomposed.png/
+No data found for URI: /apple-touch-icon.png/
+No data found for URI: /component/k2/item/28-http-bwm-org-za/
+No data found for URI: /tools-resources/
+No data found for URI: /product/perfecting-the-saints-dvd/
+No data found for URI: /wp-content/uploads/2021/11/2020-MUSIC-MINISTRY-MANUAL_updated-1.pdf/
+No data found for URI: /sendgrid.env/
+No data found for URI: /twilio.env/
+No data found for URI: /api/.env/
+No data found for URI: /dev/.env/
+No data found for URI: /app_dev.php/_profiler/phpinfo/
+No data found for URI: /admin/.env/
+No data found for URI: /laravel/.env/
+No data found for URI: /.config.yaml/
+No data found for URI: /backend/.env/
+No data found for URI: /secrets.env/
+No data found for URI: /.env.example/
+No data found for URI: /web/.env/
+No data found for URI: /.env.bak/
+No data found for URI: /staging/.env/
+No data found for URI: /debug/default/view/
+No data found for URI: /core/.env/
+No data found for URI: /phpinfo.php/
+No data found for URI: /images/.env/
+No data found for URI: /.env.save.1/
+No data found for URI: /.env.save/
+No data found for URI: /API/.env/
+No data found for URI: /product/leading-in-crisis-pastor-timothy-mcbride/
+No data found for URI: /player/stream_en.html/
+No data found for URI: /wp-includes/wlwmanifest.xml/
+No data found for URI: /xmlrpc.php/
+ApolloError: Response not successful: Received status code 404
+    at new ApolloError (D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\errors\errors.cjs:33:28)
+    at D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\core\core.cjs:2014:78
+    at both (D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\utilities\utilities.cjs:1352:31)
+    at D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\utilities\utilities.cjs:1343:72
+    at new Promise (<anonymous>)
+    at Object.then (D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\utilities\utilities.cjs:1343:24)
+    at Object.error (D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\utilities\utilities.cjs:1354:49)
+    at notifySubscription (D:\inetpub\wwwroot\nextjs\node_modules\zen-observable\lib\Observable.js:140:18)
+    at onNotify (D:\inetpub\wwwroot\nextjs\node_modules\zen-observable\lib\Observable.js:179:3)
+    at SubscriptionObserver.error (D:\inetpub\wwwroot\nextjs\node_modules\zen-observable\lib\Observable.js:240:7) {
+  graphQLErrors: [],
+  protocolErrors: [],
+  clientErrors: [],
+  networkError: Error [ServerError]: Response not successful: Received status code 404
+      at Object.throwServerError (D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\link\utils\utils.cjs:46:17)
+      at parseJsonBody (D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\link\http\http.cjs:290:15)
+      at D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\link\http\http.cjs:314:48
+      at process.processTicksAndRejections (node:internal/process/task_queues:105:5) {
+    response: Response {
+      status: 404,
+      statusText: 'Not Found',
+      headers: Headers {
+        date: 'Sat, 20 Sep 2025 22:56:50 GMT',
+        server: 'Apache',
+        'x-robots-tag': 'noindex',
+        link: '<https://staging-nikola-fma-nextjs.faithministriesalliance.org/wp-json/>; rel="https://api.w.org/"',
+        'x-content-type-options': 'nosniff',
+        'access-control-expose-headers': 'X-WP-Total, X-WP-TotalPages, Link',
+        'access-control-allow-headers': 'Authorization, X-WP-Nonce, Content-Disposition, Content-MD5, Content-Type',
+        'keep-alive': 'timeout=5, max=98',
+        connection: 'Keep-Alive',
+        'transfer-encoding': 'chunked',
+        'content-type': 'application/json; charset=UTF-8'
+      },
+      body: ReadableStream { locked: true, state: 'closed', supportsBYOB: true },
+      bodyUsed: true,
+      ok: false,
+      redirected: false,
+      type: 'basic',
+      url: 'https://staging-nikola-fma-nextjs.faithministriesalliance.org/graphql'
+    },
+    statusCode: 404,
+    result: {
+      code: 'rest_no_route',
+      message: 'No route was found matching the URL and request method.',
+      data: [Object]
+    }
+  },
+  extraInfo: undefined
+}
+No data found for URI: /wp-content/uploads/2020/09/QM4A6257-1536x864.jpg/
+No data found for URI: /wp-admin/
+No data found for URI: /product/dr-veronica-winston-fma-2020/
+No data found for URI: /product-category/cup/
+No data found for URI: /wp-content/uploads/2020/09/cropped-2020-09-08-e1599581055241-192x192.png/
+No data found for URI: /"https:/faithministriesalliance.org/wp-content/uploads/2020/09/IMG_6218-1024x683.jpg/"/
+No data found for URI: /"https:/faithministriesalliance.org/wp-content/uploads/2020/09/BillWinstonSignature-white.png/"/
+No data found for URI: /wp-content/uploads/2023/05/Screen-web.jpg/
+ApolloError: Response not successful: Received status code 404
+    at new ApolloError (D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\errors\errors.cjs:33:28)
+    at D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\core\core.cjs:2014:78
+    at both (D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\utilities\utilities.cjs:1352:31)
+    at D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\utilities\utilities.cjs:1343:72
+    at new Promise (<anonymous>)
+    at Object.then (D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\utilities\utilities.cjs:1343:24)
+    at Object.error (D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\utilities\utilities.cjs:1354:49)
+    at notifySubscription (D:\inetpub\wwwroot\nextjs\node_modules\zen-observable\lib\Observable.js:140:18)
+    at onNotify (D:\inetpub\wwwroot\nextjs\node_modules\zen-observable\lib\Observable.js:179:3)
+    at SubscriptionObserver.error (D:\inetpub\wwwroot\nextjs\node_modules\zen-observable\lib\Observable.js:240:7) {
+  graphQLErrors: [],
+  protocolErrors: [],
+  clientErrors: [],
+  networkError: Error [ServerError]: Response not successful: Received status code 404
+      at Object.throwServerError (D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\link\utils\utils.cjs:46:17)
+      at parseJsonBody (D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\link\http\http.cjs:290:15)
+      at D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\link\http\http.cjs:314:48
+      at process.processTicksAndRejections (node:internal/process/task_queues:105:5) {
+    response: Response {
+      status: 404,
+      statusText: 'Not Found',
+      headers: Headers {
+        date: 'Sun, 21 Sep 2025 02:55:44 GMT',
+        server: 'Apache',
+        'x-robots-tag': 'noindex',
+        link: '<https://staging-nikola-fma-nextjs.faithministriesalliance.org/wp-json/>; rel="https://api.w.org/"',
+        'x-content-type-options': 'nosniff',
+        'access-control-expose-headers': 'X-WP-Total, X-WP-TotalPages, Link',
+        'access-control-allow-headers': 'Authorization, X-WP-Nonce, Content-Disposition, Content-MD5, Content-Type',
+        'keep-alive': 'timeout=5, max=100',
+        connection: 'Keep-Alive',
+        'transfer-encoding': 'chunked',
+        'content-type': 'application/json; charset=UTF-8'
+      },
+      body: ReadableStream { locked: true, state: 'closed', supportsBYOB: true },
+      bodyUsed: true,
+      ok: false,
+      redirected: false,
+      type: 'basic',
+      url: 'https://staging-nikola-fma-nextjs.faithministriesalliance.org/graphql'
+    },
+    statusCode: 404,
+    result: {
+      code: 'rest_no_route',
+      message: 'No route was found matching the URL and request method.',
+      data: [Object]
+    }
+  },
+  extraInfo: undefined
+}
+No data found for URI: /.well-known/security.txt/
+No data found for URI: /wp-content/uploads/2020/09/QM4A6257-1024x576.jpg/
+No data found for URI: /ads.txt/

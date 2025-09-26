@@ -1,0 +1,34 @@
+[2025-09-03 11:36:21] [INFO] Webhook received: Manual process from trigger (Event: test, Object: test #0)
+[2025-09-03 11:36:21] [INFO] IIS WebAdministration module loaded
+[2025-09-03 11:36:21] [INFO] Current app pool state: Started
+[2025-09-03 11:36:21] [INFO] Clearing Next.js cache...
+[2025-09-03 11:36:21] [SUCCESS] Next.js cache cleared
+[2025-09-03 11:36:21] [INFO] Test webhook received - will recycle app pool for testing
+[2025-09-03 11:36:21] [INFO] Recycling application pool 'LWCCUmbracoTestSite'...
+[2025-09-03 11:36:21] [SUCCESS] Application pool recycled successfully!
+[2025-09-03 11:36:21] [SUCCESS] Site warmup completed (Status: 200)
+[2025-09-03 11:39:22] [INFO] Webhook received: Webhook trigger: webhook_1756917525578_test.json (Event: test, Object: test #0)
+[2025-09-03 11:39:22] [INFO] IIS WebAdministration module loaded
+[2025-09-03 11:39:22] [INFO] Current app pool state: Started
+[2025-09-03 11:39:22] [WARNING] Next.js cache path not found, skipping cache clear
+[2025-09-03 11:39:22] [INFO] Test webhook received - will recycle app pool for testing
+[2025-09-03 11:39:22] [INFO] Recycling application pool 'LWCCUmbracoTestSite'...
+[2025-09-03 11:39:22] [SUCCESS] Application pool recycled successfully!
+[2025-09-03 11:39:22] [SUCCESS] Site warmup completed (Status: 200)
+[2025-09-03 11:40:21] [INFO] Webhook received: Webhook trigger: webhook_1756917587816_test.json (Event: test, Object: test #0)
+[2025-09-03 11:40:21] [INFO] IIS WebAdministration module loaded
+[2025-09-03 11:40:21] [INFO] Current app pool state: Started
+[2025-09-03 11:40:21] [WARNING] Next.js cache path not found, skipping cache clear
+[2025-09-03 11:40:21] [INFO] Test webhook received - will recycle app pool for testing
+[2025-09-03 11:40:21] [INFO] Recycling application pool 'LWCCUmbracoTestSite'...
+[2025-09-03 11:40:21] [SUCCESS] Application pool recycled successfully!
+[2025-09-03 11:40:21] [SUCCESS] Site warmup completed (Status: 200)
+[2025-09-03 11:41:21] [INFO] Webhook received: Webhook trigger: webhook_1756917649995_test.json (Event: test, Object: test #0)
+[2025-09-03 11:41:21] [INFO] IIS WebAdministration module loaded
+[2025-09-03 11:41:21] [INFO] Current app pool state: Started
+[2025-09-03 11:41:21] [INFO] Clearing Next.js cache...
+[2025-09-03 11:41:21] [SUCCESS] Next.js cache cleared
+[2025-09-03 11:41:21] [INFO] Test webhook received - will recycle app pool for testing
+[2025-09-03 11:41:21] [INFO] Recycling application pool 'LWCCUmbracoTestSite'...
+[2025-09-03 11:41:21] [SUCCESS] Application pool recycled successfully!
+[2025-09-03 11:41:21] [SUCCESS] Site warmup completed (Status: 200)

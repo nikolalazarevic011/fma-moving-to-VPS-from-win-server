@@ -1,0 +1,319 @@
+(node:22880) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+No data found for URI: /wp-content/uploads/2023/11/SOMM_2024_course_Descriptions_V2.pdf/
+No data found for URI: /robots.txt/
+No data found for URI: /lwcc_login/
+Warning: For production Image Optimization with Next.js, the optional 'sharp' package is strongly recommended. Run 'npm i sharp', and Next.js will use it automatically for Image Optimization.
+Read more: https://nextjs.org/docs/messages/sharp-missing-in-production
+No data found for URI: /tools-resources/
+No data found for URI: /wp-content/uploads/2024/02/WFR24-FMA-3D-Image-DVD-300x300.png/
+No data found for URI: /wp-content/uploads/2020/09/Bill-W.png/
+No data found for URI: /live-stream-spanish/
+No data found for URI: /product-category/bag/
+No data found for URI: /product-category/accessories/
+No data found for URI: /sitemap.xml/
+No data found for URI: /product/senior-pastor-training-evening-session-dr-bill-winston-fma-2018/
+No data found for URI: /.well-known/assetlinks.json/
+No data found for URI: /about/statement-of-purpose/
+No data found for URI: /component/k2/item/28-http-bwm-org-za/
+No data found for URI: /wp-content/uploads/2023/11/Installment-Payment-Plan-Form.pdf/
+No data found for URI: /wp-content/uploads/2023/11/Class_Courses_V2.pdf/
+No data found for URI: /[...slug]/
+No data found for URI: /product-category/fma_2024/
+No data found for URI: /apple-touch-icon.png/
+No data found for URI: /apple-touch-icon-precomposed.png/
+No data found for URI: /wp-login.php/
+No data found for URI: /wp-admin/
+No data found for URI: /wp-admin/css/
+No data found for URI: /.well-known/
+No data found for URI: /sites/default/files/
+No data found for URI: /admin/controller/extension/extension/
+No data found for URI: /uploads/
+No data found for URI: /images/
+No data found for URI: /files/
+No data found for URI: /.env/
+No data found for URI: /ads.txt/
+No data found for URI: /trainings-and-development/
+No data found for URI: /style.php/
+No data found for URI: /wp-content/style.php/
+No data found for URI: /wp-content/themes/style.php/
+No data found for URI: /wp-admin/style.php/
+No data found for URI: /wp-includes/style.php/
+No data found for URI: /chosen.php/
+No data found for URI: /file.php/
+No data found for URI: /wp-editor.php/
+No data found for URI: /flower.php/
+No data found for URI: /gifclass.php/
+No data found for URI: /clas.php/
+No data found for URI: /akcc.php/
+No data found for URI: /wp-admin/maint/akcc.php/
+No data found for URI: /wp-includes/js/tinymce/skins/lightgray/img/index.php/
+No data found for URI: /product/fma-2024-pastors-and-leaders-training-dvd/
+No data found for URI: /player/stream_en.html/
+No data found for URI: /wp-content/uploads/2022/06/FMA22-3D-Image-DVD-copy-100x100.jpg/
+No data found for URI: /.env.save/
+No data found for URI: /.env.prod/
+No data found for URI: /api/.env/
+No data found for URI: /dev/.env/
+No data found for URI: /application/.env/
+No data found for URI: /phpinfo.php/
+No data found for URI: /phpinfo/
+No data found for URI: /php_info.php/
+No data found for URI: /_profiler/phpinfo/
+No data found for URI: /backend/.env/
+No data found for URI: /.env.example/
+No data found for URI: /admin/.env/
+No data found for URI: /info/
+No data found for URI: /wp-content/uploads/2022/03/FR2022-FMA-3D-Image-DVD-162x300.png/
+No data found for URI: /wordpress/
+No data found for URI: /index.php/
+No data found for URI: /product-category/cup/
+No data found for URI: /ordination/
+No data found for URI: /wp-content/uploads/2024/10/FMA24-DVD-Web-3D-Image-300x300.png/
+No data found for URI: /product-category/fma-2020/feed/
+No data found for URI: /product-category/fma-2022/
+No data found for URI: /product-category/fma-2021/
+No data found for URI: /component/content/article/
+No data found for URI: /license.txt/
+ApolloError: Response not successful: Received status code 404
+    at new ApolloError (D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\errors\errors.cjs:33:28)
+    at D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\core\core.cjs:2014:78
+    at both (D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\utilities\utilities.cjs:1352:31)
+    at D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\utilities\utilities.cjs:1343:72
+    at new Promise (<anonymous>)
+    at Object.then (D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\utilities\utilities.cjs:1343:24)
+    at Object.error (D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\utilities\utilities.cjs:1354:49)
+    at notifySubscription (D:\inetpub\wwwroot\nextjs\node_modules\zen-observable\lib\Observable.js:140:18)
+    at onNotify (D:\inetpub\wwwroot\nextjs\node_modules\zen-observable\lib\Observable.js:179:3)
+    at SubscriptionObserver.error (D:\inetpub\wwwroot\nextjs\node_modules\zen-observable\lib\Observable.js:240:7) {
+  graphQLErrors: [],
+  protocolErrors: [],
+  clientErrors: [],
+  networkError: Error [ServerError]: Response not successful: Received status code 404
+      at Object.throwServerError (D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\link\utils\utils.cjs:46:17)
+      at parseJsonBody (D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\link\http\http.cjs:290:15)
+      at D:\inetpub\wwwroot\nextjs\node_modules\@apollo\client\link\http\http.cjs:314:48
+      at process.processTicksAndRejections (node:internal/process/task_queues:105:5) {
+    response: Response {
+      status: 404,
+      statusText: 'Not Found',
+      headers: Headers {
+        date: 'Fri, 26 Sep 2025 07:34:18 GMT',
+        server: 'Apache',
+        'x-wp-doingitwrong': 'register_rest_route (since 5.5.0; The REST API route definition for <code>custom/v1/get-user-profile</code> is missing the required <code>permission_callback</code> argument. For REST API routes that are intended to be public, use <code>__return_true</code> as the permission callback.)',
+        'x-robots-tag': 'noindex',
+        link: '<https://staging-nikola-fma-nextjs.faithministriesalliance.org/wp-json/>; rel="https://api.w.org/"',
+        'x-content-type-options': 'nosniff',
+        'access-control-expose-headers': 'X-WP-Total, X-WP-TotalPages, Link',
+        'access-control-allow-headers': 'Authorization, X-WP-Nonce, Content-Disposition, Content-MD5, Content-Type',
+        'keep-alive': 'timeout=5, max=100',
+        connection: 'Keep-Alive',
+        'transfer-encoding': 'chunked',
+        'content-type': 'application/json; charset=UTF-8'
+      },
+      body: ReadableStream { locked: true, state: 'closed', supportsBYOB: true },
+      bodyUsed: true,
+      ok: false,
+      redirected: false,
+      type: 'basic',
+      url: 'https://staging-nikola-fma-nextjs.faithministriesalliance.org/graphql'
+    },
+    statusCode: 404,
+    result: {
+      code: 'rest_no_route',
+      message: 'No route was found matching the URL and request method.',
+      data: [Object]
+    }
+  },
+  extraInfo: undefined
+}
+No data found for URI: /product/dr-bill-winston-facebook-live-2-fma-2020/
+No data found for URI: /wp-content/uploads/2020/09/QM4A6257-1536x864.jpg/
+No data found for URI: /resources/dr-winston-s-recommendations/
+No data found for URI: /wp-content/uploads/2020/09/QM4A6257-768x432.jpg/
+No data found for URI: /file17.php/
+No data found for URI: /file5.php/
+No data found for URI: /file88.php/
+No data found for URI: /NewFile.php/
+No data found for URI: /wp-content/uploads/2020/09/IMG_6322-600x400.jpeg/
+No data found for URI: /wp-content/uploads/2024/02/WFR24-FMA-3D-Image-DVD-600x1113.png/
+No data found for URI: /1234.php/
+No data found for URI: /wp-content/plugins/wp-event-manager/readme.txt/
+No data found for URI: /website.rar/
+No data found for URI: /website.zip/
+No data found for URI: /website.tar.gz/
+No data found for URI: /website.tgz/
+No data found for URI: /website.tar/
+No data found for URI: /website.gz/
+No data found for URI: /website.tar.tgz/
+No data found for URI: /wwwroot.rar/
+No data found for URI: /wwwroot.zip/
+No data found for URI: /wwwroot.tar.gz/
+No data found for URI: /wwwroot.tgz/
+No data found for URI: /wwwroot.tar/
+No data found for URI: /wwwroot.gz/
+No data found for URI: /wwwroot.tar.tgz/
+No data found for URI: /1.rar/
+No data found for URI: /1.zip/
+No data found for URI: /1.tar.gz/
+No data found for URI: /1.tgz/
+No data found for URI: /1.tar/
+No data found for URI: /1.gz/
+No data found for URI: /1.tar.tgz/
+No data found for URI: /ÐÂ½¨ÎÄ¼þ¼Ð.rar/
+No data found for URI: /wÐÂ½¨ÎÄ¼þ¼Ð.zipwww.rar/
+No data found for URI: /www.zip/
+No data found for URI: /www.tar.gz/
+No data found for URI: /www.tgz/
+No data found for URI: /www.tar/
+No data found for URI: /www.gz/
+No data found for URI: /www.tar.tgz/
+No data found for URI: /web.rar/
+No data found for URI: /web.zip/
+No data found for URI: /web.tar.gz/
+No data found for URI: /web.tgz/
+No data found for URI: /web.tar/
+No data found for URI: /web.gz/
+No data found for URI: /web.tar.tgz/
+No data found for URI: /www.faithministriesalliance.org.rar/
+No data found for URI: /www.faithministriesalliance.org.zip/
+No data found for URI: /www.faithministriesalliance.org.tar.gz/
+No data found for URI: /www.faithministriesalliance.org.tgz/
+No data found for URI: /www.faithministriesalliance.org.tar/
+No data found for URI: /www.faithministriesalliance.org.sql/
+No data found for URI: /www.faithministriesalliance.org.gz/
+No data found for URI: /www.faithministriesalliance.org.tar.tgz/
+No data found for URI: /www_faithministriesalliance_org.rar/
+No data found for URI: /www_faithministriesalliance_org.zip/
+No data found for URI: /www_faithministriesalliance_org.tar.gz/
+No data found for URI: /www_faithministriesalliance_org.tgz/
+No data found for URI: /www_faithministriesalliance_org.tar/
+No data found for URI: /www_faithministriesalliance_org.sql/
+No data found for URI: /www_faithministriesalliance_org.gz/
+No data found for URI: /www_faithministriesalliance_org.tar.tgz/
+No data found for URI: /wwwfaithministriesallianceorg.rar/
+No data found for URI: /wwwfaithministriesallianceorg.zip/
+No data found for URI: /wwwfaithministriesallianceorg.tar.gz/
+No data found for URI: /wwwfaithministriesallianceorg.tgz/
+No data found for URI: /wwwfaithministriesallianceorg.tar/
+No data found for URI: /wwwfaithministriesallianceorg.sql/
+No data found for URI: /wwwfaithministriesallianceorg.gz/
+No data found for URI: /wwwfaithministriesallianceorg.tar.tgz/
+No data found for URI: /faithministriesalliance.org.rar/
+No data found for URI: /faithministriesalliance.org.zip/
+No data found for URI: /faithministriesalliance.org.tar.gz/
+No data found for URI: /faithministriesalliance.org.tgz/
+No data found for URI: /faithministriesalliance.org.tar/
+No data found for URI: /faithministriesalliance.org.sql/
+No data found for URI: /faithministriesalliance.org.gz/
+No data found for URI: /faithministriesalliance.org.tar.tgz/
+No data found for URI: /faithministriesalliance.rar/
+No data found for URI: /faithministriesalliance.zip/
+No data found for URI: /faithministriesalliance.tar.gz/
+No data found for URI: /faithministriesalliance.tgz/
+No data found for URI: /faithministriesalliance.tar/
+No data found for URI: /faithministriesalliance.sql/
+No data found for URI: /faithministriesalliance.gz/
+No data found for URI: /faithministriesalliance.tar.tgz/
+No data found for URI: /htacces.php/
+No data found for URI: /wp-content/plugins/kubio/build/ai/style.css/
+No data found for URI: /www.googletagmanager.com/gtm.js/
+No data found for URI: /wp-content/uploads/2024/02/WFR24-FMA-3D-Image-DVD-100x100.png/
+No data found for URI: /templates/lan_grant/favicon.ico/
+No data found for URI: /product/pastor-samuel-segundo-fma-2020/
+No data found for URI: /.well-known/passkey-endpoints/
+No data found for URI: /wp-content/uploads/2020/09/BillWinstonSignature-white.png/
+No data found for URI: /wp-content/cache/wpfc-minified/md3iev5p/6e0cy.css/
+No data found for URI: /wp-content/cache/wpfc-minified/23ctaskm/6e0ni.css/
+No data found for URI: /wp-content/cache/wpfc-minified/7zp6rvnj/6e0cy.css/
+No data found for URI: /wp-content/cache/wpfc-minified/6xlgjlno/6e0cy.css/
+No data found for URI: /wp-content/cache/wpfc-minified/7zmvm0pw/6e40k.css/
+No data found for URI: /wp-content/cache/wpfc-minified/ehne2vo8/6e0cy.css/
+No data found for URI: /wp-content/cache/wpfc-minified/2cbpyew4/6e0cy.css/
+No data found for URI: /wp-content/cache/wpfc-minified/eh35pdmh/6e0cy.css/
+No data found for URI: /wp-content/cache/wpfc-minified/1cb92oh9/6e0cy.css/
+No data found for URI: /wp-content/cache/wpfc-minified/eql3xrcw/6e0cy.css/
+No data found for URI: /wp-content/cache/wpfc-minified/dsh1qvzs/6e0cy.css/
+No data found for URI: /wp-content/cache/wpfc-minified/e5ywvx8s/6e0cz.js/
+No data found for URI: /wp-content/cache/wpfc-minified/8k8tqgrp/6e0cz.js/
+No data found for URI: /wp-content/cache/wpfc-minified/kbnik1f0/6e0cz.js/
+No data found for URI: /wp-content/cache/wpfc-minified/lcn354sq/6e0cz.js/
+No data found for URI: /wp-content/cache/wpfc-minified/egzo6q0c/6e0cy.js/
+No data found for URI: /wp-content/cache/wpfc-minified/dsz3ipuu/6e0cz.js/
+No data found for URI: /wp-content/cache/wpfc-minified/6v8om76k/6e0cz.js/
+No data found for URI: /wp-content/cache/wpfc-minified/dgqm65r3/6e0cz.js/
+No data found for URI: /wp-content/cache/wpfc-minified/m05v65hu/6e0cz.js/
+No data found for URI: /wp-content/cache/wpfc-minified/q6tgtzt5/6e0cz.js/
+No data found for URI: /wp-content/cache/wpfc-minified/g011zsr/6e0cy.js/
+No data found for URI: /wp-content/cache/wpfc-minified/kbnkupda/6e0cz.js/
+No data found for URI: /wp-content/cache/wpfc-minified/dj5ecano/6e0cy.js/
+No data found for URI: /wp-content/cache/wpfc-minified/e5cy25gf/6e40l.js/
+No data found for URI: /wp-content/cache/wpfc-minified/14pyu2qe/6e0cz.js/
+No data found for URI: /wp-content/cache/wpfc-minified/q6luob3u/6e0cy.js/
+No data found for URI: /wp-content/cache/wpfc-minified/6ypm9tsz/6e0cy.js/
+No data found for URI: /wp-content/cache/wpfc-minified/dh7n782z/6e0cz.js/
+No data found for URI: /wp-content/cache/wpfc-minified/f3hdyilb/6e0cz.js/
+No data found for URI: /wp-content/cache/wpfc-minified/edhvpoiv/6e0cz.js/
+No data found for URI: /wp-content/cache/wpfc-minified/rpc5kzp/6e0nj.js/
+No data found for URI: /wp-content/cache/wpfc-minified/du6hsy4h/6e0cz.js/
+No data found for URI: /wp-content/cache/wpfc-minified/6ju9l5tp/6e0cz.js/
+No data found for URI: /wp-content/cache/wpfc-minified/30dh9mkn/6e0cz.js/
+No data found for URI: /wp-content/cache/wpfc-minified/8xqt7x4p/6e0cz.js/
+No data found for URI: /wp-content/cache/wpfc-minified/6l8rc48d/6e0nj.js/
+No data found for URI: /wp-content/cache/wpfc-minified/cdps7t1/6e0cz.js/
+No data found for URI: /wp-content/cache/wpfc-minified/lzr8k1gh/6e0cy.js/
+No data found for URI: /wp-content/cache/wpfc-minified/duqe5pw2/6e0cz.js/
+No data found for URI: /wp-content/cache/wpfc-minified/qwq21cds/6e0cz.js/
+No data found for URI: /wp-content/cache/wpfc-minified/6o1f0rpc/6e0cz.js/
+No data found for URI: /wp-content/cache/wpfc-minified/2qyrzr1x/6e0cz.js/
+No data found for URI: /wp-content/cache/wpfc-minified/d5zjvej7/6e0cz.js/
+No data found for URI: /product-category/fma-2020/
+No data found for URI: /wp-content/cache/wpfc-minified/23ctaskm/2aiej.css/
+No data found for URI: /wp-content/cache/wpfc-minified/eql3xrcw/2ahvk.css/
+No data found for URI: /wp-content/cache/wpfc-minified/etl3wd4w/2awdf.css/
+No data found for URI: /wp-content/cache/wpfc-minified/kwqfdrje/2ahvk.css/
+No data found for URI: /wp-content/cache/wpfc-minified/dsh1qvzs/2ahvk.css/
+No data found for URI: /wp-content/cache/wpfc-minified/4rqra0g/2ahvk.css/
+No data found for URI: /wp-content/cache/wpfc-minified/7zp6rvnj/2ahv9.css/
+No data found for URI: /wp-content/cache/wpfc-minified/jr7446u9/2awdf.css/
+No data found for URI: /wp-content/cache/wpfc-minified/1fxi0m5/2ahvk.css/
+No data found for URI: /wp-content/cache/wpfc-minified/eh35pdmh/2ahvk.css/
+No data found for URI: /wp-content/cache/wpfc-minified/rpc5kzp/2ahvl.js/
+No data found for URI: /wp-content/cache/wpfc-minified/m05v65hu/2ahvl.js/
+No data found for URI: /wp-content/cache/wpfc-minified/6ju9l5tp/2ahvl.js/
+No data found for URI: /wp-content/cache/wpfc-minified/du6hsy4h/2ahvk.js/
+No data found for URI: /wp-content/cache/wpfc-minified/q6tgtzt5/2ahvl.js/
+No data found for URI: /wp-content/cache/wpfc-minified/6l8rc48d/2ahvl.js/
+No data found for URI: /wp-content/cache/wpfc-minified/m8zhhtp0/2awdh.js/
+No data found for URI: /wp-content/cache/wpfc-minified/lcn354sq/2ahvl.js/
+No data found for URI: /wp-content/cache/wpfc-minified/egzo6q0c/2ahvk.js/
+No data found for URI: /wp-content/cache/wpfc-minified/dt2fk1z2/2awdh.js/
+No data found for URI: /wp-content/cache/wpfc-minified/30dh9mkn/2ahvl.js/
+No data found for URI: /wp-content/cache/wpfc-minified/2qyrzr1x/2ahvl.js/
+No data found for URI: /wp-content/cache/wpfc-minified/14pyu2qe/2ahvk.js/
+No data found for URI: /wp-content/cache/wpfc-minified/qwq21cds/2ahvl.js/
+No data found for URI: /wp-content/cache/wpfc-minified/kbnkupda/2ahvl.js/
+No data found for URI: /wp-content/cache/wpfc-minified/kbnik1f0/2ahvl.js/
+No data found for URI: /wp-content/cache/wpfc-minified/6ypm9tsz/2ahvk.js/
+No data found for URI: /wp-content/cache/wpfc-minified/dgqm65r3/2ahvl.js/
+No data found for URI: /wp-content/cache/wpfc-minified/q6luob3u/2ahvk.js/
+No data found for URI: /wp-content/cache/wpfc-minified/6o1f0rpc/2ahvl.js/
+No data found for URI: /wp-content/cache/wpfc-minified/8k8tqgrp/2ahvk.js/
+No data found for URI: /wp-content/cache/wpfc-minified/g011zsr/2ahvk.js/
+No data found for URI: /wp-content/cache/wpfc-minified/duqe5pw2/2ahvl.js/
+No data found for URI: /wp-content/cache/wpfc-minified/8n2p4kvg/2awdh.js/
+No data found for URI: /wp-content/cache/wpfc-minified/8xqt7x4p/2ahvl.js/
+No data found for URI: /wp-content/cache/wpfc-minified/dsz3ipuu/2ahvl.js/
+No data found for URI: /wp-content/cache/wpfc-minified/30wykjgn/2awdh.js/
+No data found for URI: /wp-content/cache/wpfc-minified/dh7n782z/2ahvk.js/
+No data found for URI: /wp-content/cache/wpfc-minified/cdps7t1/2ahvk.js/
+No data found for URI: /wp-content/cache/wpfc-minified/6v8om76k/2ahvk.js/
+No data found for URI: /wp-content/cache/wpfc-minified/d5zjvej7/2ahvk.js/
+No data found for URI: /wp-content/cache/wpfc-minified/lzr8k1gh/2ahvk.js/
+No data found for URI: /wp-content/cache/wpfc-minified/frmsu4yo/2awdh.js/
+No data found for URI: /wp-content/cache/wpfc-minified/dj5ecano/2ahvk.js/
+No data found for URI: /wp-content/cache/wpfc-minified/e5ywvx8s/2ahvl.js/
+No data found for URI: /wp-content/cache/wpfc-minified/f3hdyilb/2ahvl.js/
+No data found for URI: /members-directory/
+No data found for URI: /wp-content/uploads/2020/09/QM4A6257-300x169.jpg/
+No data found for URI: /wp-content/plugins/wp-webhooks/readme.txt/

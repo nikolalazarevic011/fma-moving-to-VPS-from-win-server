@@ -1,0 +1,38 @@
+(node:15160) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Warning: For production Image Optimization with Next.js, the optional 'sharp' package is strongly recommended. Run 'npm i sharp', and Next.js will use it automatically for Image Optimization.
+Read more: https://nextjs.org/docs/messages/sharp-missing-in-production
+No data found for URI: /[...slug]/
+No data found for URI: /index.php/benefits-main/benefits/
+No data found for URI: /robots.txt/
+No data found for URI: /wp-content/plugins/wordpress-corde/wordpresse-kore.php/
+No data found for URI: /wp-content/plugins/wordpress-core/wordpress-core.php/
+No data found for URI: /.well-known/assetlinks.json/
+No data found for URI: /.well-known/traffic-advice/
+No data found for URI: /wp-content/uploads/2024/10/FMA24-DVD-Web-3D-Image-100x100.png/
+No data found for URI: /tools-resources/
+No data found for URI: /wp-admin/network/index.php/
+No data found for URI: /wp-admin/js/index.php/
+No data found for URI: /wp-admin/images/index.php/
+No data found for URI: /wp-admin/css/index.php/
+No data found for URI: /wp-includes/SimplePie/Content/Type/index.php/
+No data found for URI: /wp-includes/Requests/Auth/index.php/
+No data found for URI: /wp-admin/css/colors/index.php/
+No data found for URI: /wp-content/languages/index.php/
+No data found for URI: /wp-content/upgrade/index.php/
+No data found for URI: /wp-content/IXR/index.php/
+No data found for URI: /wp-content/plugins/about.php/
+No data found for URI: /geju.php/
+No data found for URI: /wp.php/
+No data found for URI: /trainings-and-development/
+No data found for URI: /player/stream_en.html/
+No data found for URI: /about/founders-letter/
+No data found for URI: /apple-touch-icon-precomposed.png/
+No data found for URI: /apple-touch-icon.png/
+No data found for URI: /wp-content/uploads/2021/11/2020-MUSIC-MINISTRY-MANUAL_updated-1.pdf/
+No data found for URI: /wp-content/uploads/2021/08/FMA2021_CD-150x150.png/
+No data found for URI: /product/fma-2022-cd/
+No data found for URI: /product-category/bag/
+No data found for URI: /wp-login.php/
+No data found for URI: /wp-admin/
+No data found for URI: /product/2025-fma-pastor-and-leadership-training-dvd/

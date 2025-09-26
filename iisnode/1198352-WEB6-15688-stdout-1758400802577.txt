@@ -1,0 +1,511 @@
+> Ready on http://localhost:\\.\pipe\18c4427a-9177-4918-a8f7-692d9e349850
+Context:  {
+  params: { slug: [ '.env' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.env/
+Context:  {
+  params: { slug: [ 'robots.txt' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /robots.txt/
+Context:  {
+  params: { slug: [ 'applications', 'join-fma' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /applications/join-fma/
+COLUMNS:  { style: { spacing: { margin: [Object] } }, isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  {
+  verticalAlignment: 'center',
+  isStackedOnMobile: false,
+  style: {
+    border: { radius: '6px', width: '1px' },
+    spacing: { padding: [Object], margin: [Object] }
+  },
+  borderColor: 'primary'
+}
+COLUMNS:  {
+  verticalAlignment: 'center',
+  isStackedOnMobile: false,
+  style: {
+    border: { radius: '6px', width: '1px' },
+    spacing: { padding: [Object], margin: [Object] }
+  },
+  borderColor: 'primary'
+}
+Context:  {
+  params: { slug: [ 'contact-us' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /contact-us/
+COLUMNS:  { isStackedOnMobile: true }
+Context:  {
+  params: { slug: [ 'apple-touch-icon-120x120-precomposed.png' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /apple-touch-icon-120x120-precomposed.png/
+Context:  {
+  params: { slug: [ 'apple-touch-icon-120x120.png' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /apple-touch-icon-120x120.png/
+Context:  {
+  params: { slug: [ 'apple-touch-icon-precomposed.png' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /apple-touch-icon-precomposed.png/
+Context:  {
+  params: { slug: [ 'apple-touch-icon.png' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /apple-touch-icon.png/
+Context:  {
+  params: { slug: [ 'component', 'k2', 'item', '28-http-bwm-org-za' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /component/k2/item/28-http-bwm-org-za/
+Context:  {
+  params: { slug: [ 'guidelines' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /guidelines/
+COLUMNS:  { style: { spacing: { margin: [Object] } }, isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+Context:  {
+  params: { slug: [ 'benefits' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /benefits/
+COLUMNS:  { style: { spacing: { margin: [Object] } }, isStackedOnMobile: true }
+COLUMNS:  {
+  verticalAlignment: 'center',
+  isStackedOnMobile: false,
+  style: {
+    border: { radius: '6px', width: '1px' },
+    spacing: { padding: [Object], margin: [Object] }
+  },
+  borderColor: 'primary'
+}
+Context:  {
+  params: { slug: [ 'donate' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /donate/
+COLUMNS:  {
+  metadata: {
+    categories: [ 'header', 'title' ],
+    patternName: 'core/block/1262',
+    name: 'page title with underline'
+  },
+  isStackedOnMobile: true
+}
+COLUMNS:  {
+  style: { spacing: { margin: [Object], blockGap: [Object] } },
+  isStackedOnMobile: true
+}
+Context:  {
+  params: { slug: [ 'faq' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /faq/
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+Context:  {
+  params: { slug: [ 'about-fma' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /about-fma/
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  {
+  verticalAlignment: 'center',
+  style: { spacing: { margin: [Object] } },
+  isStackedOnMobile: true
+}
+COLUMNS:  {
+  verticalAlignment: 'center',
+  style: {
+    spacing: { margin: [Object], padding: [Object], blockGap: [Object] }
+  },
+  isStackedOnMobile: true
+}
+Context:  {
+  params: { slug: [ 'fma-south-africa' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /fma-south-africa/
+COLUMNS:  {
+  verticalAlignment: 'center',
+  style: { spacing: { margin: [Object] } },
+  backgroundColor: 'primaryDark',
+  isStackedOnMobile: true
+}
+COLUMNS:  { isStackedOnMobile: true }
+COLUMNS:  { isStackedOnMobile: true }
+Context:  {
+  params: { slug: [ 'tools-resources' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /tools-resources/
+Context:  {
+  params: { slug: [ 'product', 'perfecting-the-saints-dvd' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /product/perfecting-the-saints-dvd/
+Context:  {
+  params: {
+    slug: [
+      'wp-content',
+      'uploads',
+      '2021',
+      '11',
+      '2020-MUSIC-MINISTRY-MANUAL_updated-1.pdf'
+    ]
+  },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/uploads/2021/11/2020-MUSIC-MINISTRY-MANUAL_updated-1.pdf/
+Context:  {
+  params: { slug: [ 'sendgrid.env' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /sendgrid.env/
+Context:  {
+  params: { slug: [ 'twilio.env' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /twilio.env/
+Context:  {
+  params: { slug: [ 'api', '.env' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /api/.env/
+Context:  {
+  params: { slug: [ 'dev', '.env' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /dev/.env/
+Context:  {
+  params: { slug: [ 'app_dev.php', '_profiler', 'phpinfo' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /app_dev.php/_profiler/phpinfo/
+Context:  {
+  params: { slug: [ 'admin', '.env' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /admin/.env/
+Context:  {
+  params: { slug: [ 'laravel', '.env' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /laravel/.env/
+Context:  {
+  params: { slug: [ '.config.yaml' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.config.yaml/
+Context:  {
+  params: { slug: [ 'backend', '.env' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /backend/.env/
+Context:  {
+  params: { slug: [ 'secrets.env' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /secrets.env/
+Context:  {
+  params: { slug: [ '.env.example' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.env.example/
+Context:  {
+  params: { slug: [ 'web', '.env' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /web/.env/
+Context:  {
+  params: { slug: [ '.env.bak' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.env.bak/
+Context:  {
+  params: { slug: [ 'staging', '.env' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /staging/.env/
+Context:  {
+  params: { slug: [ 'debug', 'default', 'view' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /debug/default/view/
+Context:  {
+  params: { slug: [ 'core', '.env' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /core/.env/
+Context:  {
+  params: { slug: [ 'phpinfo.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /phpinfo.php/
+Context:  {
+  params: { slug: [ 'images', '.env' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /images/.env/
+Context:  {
+  params: { slug: [ '.env.save.1' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.env.save.1/
+Context:  {
+  params: { slug: [ '.env.save' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.env.save/
+Context:  {
+  params: { slug: [ 'API', '.env' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /API/.env/
+Context:  {
+  params: { slug: [ 'product', 'leading-in-crisis-pastor-timothy-mcbride' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /product/leading-in-crisis-pastor-timothy-mcbride/
+Context:  {
+  params: { slug: [ 'player', 'stream_en.html' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /player/stream_en.html/
+Context:  {
+  params: { slug: [ 'wp-includes', 'wlwmanifest.xml' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-includes/wlwmanifest.xml/
+Context:  {
+  params: { slug: [ 'xmlrpc.php' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /xmlrpc.php/
+Context:  {
+  params: { slug: [ 'wp-json', 'oembed', '1.0', 'embed' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-json/oembed/1.0/embed/
+Context:  {
+  params: {
+    slug: [ 'wp-content', 'uploads', '2020', '09', 'QM4A6257-1536x864.jpg' ]
+  },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/uploads/2020/09/QM4A6257-1536x864.jpg/
+Context:  {
+  params: { slug: [ 'wp-admin' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-admin/
+Context:  {
+  params: { slug: [ 'product', 'dr-veronica-winston-fma-2020' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /product/dr-veronica-winston-fma-2020/
+Context:  {
+  params: { slug: [ 'product-category', 'cup' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /product-category/cup/
+Context:  {
+  params: {
+    slug: [
+      'wp-content',
+      'uploads',
+      '2020',
+      '09',
+      'cropped-2020-09-08-e1599581055241-192x192.png'
+    ]
+  },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/uploads/2020/09/cropped-2020-09-08-e1599581055241-192x192.png/
+Context:  {
+  params: {
+    slug: [
+      '"https:',
+      'faithministriesalliance.org',
+      'wp-content',
+      'uploads',
+      '2020',
+      '09',
+      'IMG_6218-1024x683.jpg',
+      '"'
+    ]
+  },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /"https:/faithministriesalliance.org/wp-content/uploads/2020/09/IMG_6218-1024x683.jpg/"/
+Context:  {
+  params: {
+    slug: [
+      '"https:',
+      'faithministriesalliance.org',
+      'wp-content',
+      'uploads',
+      '2020',
+      '09',
+      'BillWinstonSignature-white.png',
+      '"'
+    ]
+  },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /"https:/faithministriesalliance.org/wp-content/uploads/2020/09/BillWinstonSignature-white.png/"/
+Context:  {
+  params: { slug: [ 'wp-content', 'uploads', '2023', '05', 'Screen-web.jpg' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/uploads/2023/05/Screen-web.jpg/
+Context:  {
+  params: { slug: [ 'wp-json', 'oembed', '1.0', 'embed' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-json/oembed/1.0/embed/
+Context:  {
+  params: { slug: [ '.well-known', 'security.txt' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /.well-known/security.txt/
+Context:  {
+  params: {
+    slug: [ 'wp-content', 'uploads', '2020', '09', 'QM4A6257-1024x576.jpg' ]
+  },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /wp-content/uploads/2020/09/QM4A6257-1024x576.jpg/
+Context:  {
+  params: { slug: [ 'ads.txt' ] },
+  locales: undefined,
+  locale: undefined,
+  defaultLocale: undefined
+}
+Fetching data for URI: /ads.txt/
